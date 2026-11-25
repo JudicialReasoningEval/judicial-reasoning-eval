@@ -1,0 +1,3106 @@
+{
+  "description": "Identity, provenance and checksums of the 181 judgments of the study corpus. The judgment texts are deliberately not redistributed: they are published unredacted by the Court and contain personal and criminal-offence data. Retrieve them from the URLs below and verify against the checksums.",
+  "source": "https://www.italgiure.giustizia.it/sncass/",
+  "retrieved": "2026-05",
+  "n_judgments": 181,
+  "judgments": [
+    {
+      "filename": "snpen@s60@a2025@n00305@tS.clean.md",
+      "solr_id": "snpen2025600305S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 305,
+      "tipo": "S",
+      "articles_matched": [
+        "321",
+        "322"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250107/snpen%40s60%40a2025%40n00305%40tS.clean.pdf",
+      "sha256_pdf": "f2c0877c26139069d339bb5de12d9bce28be5e8495cf305e5cdf3329d4701460",
+      "sha256_markdown": "46c92e01c575a237f9cefe05d8b7497b696d2f0128dacca6a3b50a6c8764aa96"
+    },
+    {
+      "filename": "snpen@s60@a2025@n00583@tS.clean.md",
+      "solr_id": "snpen2025600583S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 583,
+      "tipo": "S",
+      "articles_matched": [
+        "319",
+        "321",
+        "323"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250108/snpen%40s60%40a2025%40n00583%40tS.clean.pdf",
+      "sha256_pdf": "2cf701feb86f43dfb817300975bfc833aa7cde5a612997a96b3a9c262872404a",
+      "sha256_markdown": "f7b72bda9025ab1e623e3c8573aaeb6c3ab4be293de89166270746a53cf4e865"
+    },
+    {
+      "filename": "snpen@s60@a2025@n00584@tS.clean.md",
+      "solr_id": "snpen2025600584S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 584,
+      "tipo": "S",
+      "articles_matched": [
+        "319",
+        "321"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250108/snpen%40s60%40a2025%40n00584%40tS.clean.pdf",
+      "sha256_pdf": "96927435a91dff5ec895d05ae834e4485e56b0455c83a3d64a1f10a9962bc40f",
+      "sha256_markdown": "e839ab1cab6418b1f3b32c5796cbff950b33356a18a490c74e4b41e81532cef9"
+    },
+    {
+      "filename": "snpen@s60@a2025@n00599@tS.clean.md",
+      "solr_id": "snpen2025600599S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 599,
+      "tipo": "S",
+      "articles_matched": [
+        "321"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250108/snpen%40s60%40a2025%40n00599%40tS.clean.pdf",
+      "sha256_pdf": "be91571f6785996d3c016771900529d6c445ec0ccecc4d91a85a63a03509f111",
+      "sha256_markdown": "54648086b4b0758c88fa30e1f4e36aa200b6490bd84f31ad0aa73ee9a04dd5b8"
+    },
+    {
+      "filename": "snpen@s60@a2025@n00609@tS.clean.md",
+      "solr_id": "snpen2025600609S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 609,
+      "tipo": "S",
+      "articles_matched": [
+        "318",
+        "321"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250108/snpen%40s60%40a2025%40n00609%40tS.clean.pdf",
+      "sha256_pdf": "ff793cc55d4c15343ab9fc6d4217cf53a5b0c25fee888998f68498bd7148b24d",
+      "sha256_markdown": "c6c875483af7fec4ccfd316e61bf2df73c78d4a6b3d589c9c664dd505ae1c2d3"
+    },
+    {
+      "filename": "snpen@s60@a2025@n01648@tS.clean.md",
+      "solr_id": "snpen2025601648S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 1648,
+      "tipo": "S",
+      "articles_matched": [
+        "319"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250114/snpen%40s60%40a2025%40n01648%40tS.clean.pdf",
+      "sha256_pdf": "e94c80db3a7a180868adeb607abbd0c211f936b7fd9e1575fe47bbf4ff4d5d22",
+      "sha256_markdown": "d6d404a90ae3daad2f6b2fa1af65d175ad41658334ce3068a6a33afaa078676d"
+    },
+    {
+      "filename": "snpen@s60@a2025@n01662@tS.clean.md",
+      "solr_id": "snpen2025601662S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 1662,
+      "tipo": "S",
+      "articles_matched": [
+        "321"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250114/snpen%40s60%40a2025%40n01662%40tS.clean.pdf",
+      "sha256_pdf": "a822aeee9b790277161d679e1bc44e4266fc1d45d610f3bf172a63c2c334b8e6",
+      "sha256_markdown": "8cd197d805a0f37e83563df1ca721ef3771b125fd142af74829811f739e65d6b"
+    },
+    {
+      "filename": "snpen@s60@a2025@n01663@tS.clean.md",
+      "solr_id": "snpen2025601663S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 1663,
+      "tipo": "S",
+      "articles_matched": [
+        "321"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250114/snpen%40s60%40a2025%40n01663%40tS.clean.pdf",
+      "sha256_pdf": "f5dcea26c21f9b6acdbbd316d473576aba384f6683be2a74c0fb0682ba6c9cda",
+      "sha256_markdown": "d614731e9b2cbb8f0dc7109af2810bd2aa1b03514dc7e5c2a53e065ed46504be"
+    },
+    {
+      "filename": "snpen@s60@a2025@n02092@tS.clean.md",
+      "solr_id": "snpen2025602092S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 2092,
+      "tipo": "S",
+      "articles_matched": [
+        "319",
+        "321"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250117/snpen%40s60%40a2025%40n02092%40tS.clean.pdf",
+      "sha256_pdf": "11a7a2b382bb766f7afc4f5d6c0febf007c05164d88524e3b17caf4d06f75bf5",
+      "sha256_markdown": "0a8a03daeacdbd7ab220f807986fd7537d67d5495d4b859eb26f099bfcfa1981"
+    },
+    {
+      "filename": "snpen@s60@a2025@n02235@tS.clean.md",
+      "solr_id": "snpen2025602235S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 2235,
+      "tipo": "S",
+      "articles_matched": [
+        "318",
+        "319",
+        "321",
+        "323"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250120/snpen%40s60%40a2025%40n02235%40tS.clean.pdf",
+      "sha256_pdf": "db1d6b1a6ddcfdaf18a33866838407eadb29835abab5b9418597212c0ad1d803",
+      "sha256_markdown": "b1bb947a13439f0a00dd224d22ab14d6d88c85578d16f52fd8c7b5f63416cd8a"
+    },
+    {
+      "filename": "snpen@s60@a2025@n02692@tS.clean.md",
+      "solr_id": "snpen2025602692S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 2692,
+      "tipo": "S",
+      "articles_matched": [
+        "318",
+        "319"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250122/snpen%40s60%40a2025%40n02692%40tS.clean.pdf",
+      "sha256_pdf": "9b88d635a3ae3af0c5fb98c9712196f3d1dc9bb5111b8bcbad2351c7a5978f4b",
+      "sha256_markdown": "b0966ec10de8590c410b2fdb3f7b3922db1dbaeab15ab863cfa9b8ad7a715a84"
+    },
+    {
+      "filename": "snpen@s60@a2025@n03089@tS.clean.md",
+      "solr_id": "snpen2025603089S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 3089,
+      "tipo": "S",
+      "articles_matched": [
+        "321"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250127/snpen%40s60%40a2025%40n03089%40tS.clean.pdf",
+      "sha256_pdf": "9d92f225c4a66b570d3585ba00b9629c719527760472a136b48a7eb49e8022f7",
+      "sha256_markdown": "2708b40f02cdf67e574ea957b3163853f7543c3f88745297e8dbd378159a4a37"
+    },
+    {
+      "filename": "snpen@s60@a2025@n03347@tS.clean.md",
+      "solr_id": "snpen2025603347S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 3347,
+      "tipo": "S",
+      "articles_matched": [
+        "321",
+        "322"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250127/snpen%40s60%40a2025%40n03347%40tS.clean.pdf",
+      "sha256_pdf": "786576d644db14ad45591f2f4776c82879c300875c6a9641cc1fd5c6d1b9caeb",
+      "sha256_markdown": "4acabbfc1e6eab78d8aae3a8c7433c3be5ee76aeaac22459683fcaa787db3f13"
+    },
+    {
+      "filename": "snpen@s60@a2025@n03895@tS.clean.md",
+      "solr_id": "snpen2025603895S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 3895,
+      "tipo": "S",
+      "articles_matched": [
+        "318",
+        "319",
+        "321",
+        "322"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250130/snpen%40s60%40a2025%40n03895%40tS.clean.pdf",
+      "sha256_pdf": "ddb0cc142521a1bb659a48d8fd0f530d0c95ea06ec4a3bbdf20cbec9053c5594",
+      "sha256_markdown": "fba86b4004933305eeaddb886eacff236de11672c1607b0f5cb69f6974b736bd"
+    },
+    {
+      "filename": "snpen@s60@a2025@n04520@tS.clean.md",
+      "solr_id": "snpen2025604520S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 4520,
+      "tipo": "S",
+      "articles_matched": [
+        "318",
+        "319",
+        "321",
+        "322",
+        "323"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250204/snpen%40s60%40a2025%40n04520%40tS.clean.pdf",
+      "sha256_pdf": "e4fd723104d35fe8fbc73e6687d669ce96d9a02aefeae5a21c9d58e2c1cf91cf",
+      "sha256_markdown": "1028e7b563ef63a13ac39be361223af39d8d13fc7974205e5c03e4c36e2680e9"
+    },
+    {
+      "filename": "snpen@s60@a2025@n04606@tS.clean.md",
+      "solr_id": "snpen2025604606S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 4606,
+      "tipo": "S",
+      "articles_matched": [
+        "319"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250205/snpen%40s60%40a2025%40n04606%40tS.clean.pdf",
+      "sha256_pdf": "c491c615b29376f6e24affe98a1d90c401f7ffad5d25410c7a9c32b4f99d6225",
+      "sha256_markdown": "259477c97fa0cd67276e883d3d137d07817ca83cbf8d83094fda18ab9eea8d4e"
+    },
+    {
+      "filename": "snpen@s60@a2025@n04923@tS.clean.md",
+      "solr_id": "snpen2025604923S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 4923,
+      "tipo": "S",
+      "articles_matched": [
+        "322"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250206/snpen%40s60%40a2025%40n04923%40tS.clean.pdf",
+      "sha256_pdf": "28dc7dd7d1855b707cc9f7d354de3aa08048a43d5c3c1208e4bc5c27c567515a",
+      "sha256_markdown": "c10fa6f9c76742ff49c9e0945c2aa51c4b179c733362b3daa09e1dcbf8d9b3da"
+    },
+    {
+      "filename": "snpen@s60@a2025@n04943@tS.clean.md",
+      "solr_id": "snpen2025604943S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 4943,
+      "tipo": "S",
+      "articles_matched": [
+        "321"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250206/snpen%40s60%40a2025%40n04943%40tS.clean.pdf",
+      "sha256_pdf": "b941bb6625d8d5ec5d2c45e9a607b9dd403f1ac84f617d1c3d67da2ed8f0eac4",
+      "sha256_markdown": "faea283a643f44d953c099cd2a5a01c5285c4485da198b63eafadb19c7c6603f"
+    },
+    {
+      "filename": "snpen@s60@a2025@n06728@tS.clean.md",
+      "solr_id": "snpen2025606728S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 6728,
+      "tipo": "S",
+      "articles_matched": [
+        "318",
+        "319",
+        "323"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250218/snpen%40s60%40a2025%40n06728%40tS.clean.pdf",
+      "sha256_pdf": "bc009f02aa02b5dbe41cd4de43312966c7a4330910e8225e495038cbc6b6edb6",
+      "sha256_markdown": "d6280696666d4068fde6df2d1778323f15c6ec7d04d66c7fc82ad792d5595dd3"
+    },
+    {
+      "filename": "snpen@s60@a2025@n06833@tS.clean.md",
+      "solr_id": "snpen2025606833S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 6833,
+      "tipo": "S",
+      "articles_matched": [
+        "318",
+        "319",
+        "323"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250219/snpen%40s60%40a2025%40n06833%40tS.clean.pdf",
+      "sha256_pdf": "26383f50edf00213154a3ce1d4260faf3b78f5b268a84f6aa3000ec3d3a74497",
+      "sha256_markdown": "13af51dbe3b7cede4e3b2c9dbf00e386a7805ad1c7573beda9bbd07b4458a880"
+    },
+    {
+      "filename": "snpen@s60@a2025@n06849@tS.clean.md",
+      "solr_id": "snpen2025606849S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 6849,
+      "tipo": "S",
+      "articles_matched": [
+        "321"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250219/snpen%40s60%40a2025%40n06849%40tS.clean.pdf",
+      "sha256_pdf": "8b27984d758cda5cb1b3301e29433f49a4fbbc1fbfef28b2c5f0d2b79a698a4c",
+      "sha256_markdown": "133ee9d96a5f7442f8c62c26211be97fc8e6133de208fab57546afc661bf8280"
+    },
+    {
+      "filename": "snpen@s60@a2025@n06850@tS.clean.md",
+      "solr_id": "snpen2025606850S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 6850,
+      "tipo": "S",
+      "articles_matched": [
+        "321",
+        "322"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250219/snpen%40s60%40a2025%40n06850%40tS.clean.pdf",
+      "sha256_pdf": "12a9cadb93a3dce5ba145b994fdf92a2880f9e8a8709ab9b098f548ee4134e50",
+      "sha256_markdown": "b555e272bae6a900a94cb119025703d0e369767db2b25b17bf4736b5c1c29e6e"
+    },
+    {
+      "filename": "snpen@s60@a2025@n07099@tS.clean.md",
+      "solr_id": "snpen2025607099S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 7099,
+      "tipo": "S",
+      "articles_matched": [
+        "318",
+        "319",
+        "321",
+        "323"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250220/snpen%40s60%40a2025%40n07099%40tS.clean.pdf",
+      "sha256_pdf": "0ce9d5b44f6ae9cfd6340c04b7d5ece70b9d0f4a5bdd084172337bb0c47e27b4",
+      "sha256_markdown": "131dffa4091ad38800b115a9e3abaccb504507371a4a43e74333b4d032140225"
+    },
+    {
+      "filename": "snpen@s60@a2025@n07112@tS.clean.md",
+      "solr_id": "snpen2025607112S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 7112,
+      "tipo": "S",
+      "articles_matched": [
+        "319",
+        "321"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250220/snpen%40s60%40a2025%40n07112%40tS.clean.pdf",
+      "sha256_pdf": "a53d92833be1e4c451cd699787d37d470c3739b0044d7e7a56a8f2c836805721",
+      "sha256_markdown": "ebe8d2d0030c093753b8c3da89e7a20e69f2fa5b92ea2ddfe97c7e5783527834"
+    },
+    {
+      "filename": "snpen@s60@a2025@n07113@tS.clean.md",
+      "solr_id": "snpen2025607113S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 7113,
+      "tipo": "S",
+      "articles_matched": [
+        "319",
+        "321"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250220/snpen%40s60%40a2025%40n07113%40tS.clean.pdf",
+      "sha256_pdf": "9857ad7e11b46f549e71e6419a1cd0155ee95a0a95adb3bfc39344f0404089af",
+      "sha256_markdown": "9b319c376fd6040662fa84c0a105b60078d2f10d8f698046347e5f2364672886"
+    },
+    {
+      "filename": "snpen@s60@a2025@n07334@tS.clean.md",
+      "solr_id": "snpen2025607334S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 7334,
+      "tipo": "S",
+      "articles_matched": [
+        "318",
+        "319",
+        "322"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250221/snpen%40s60%40a2025%40n07334%40tS.clean.pdf",
+      "sha256_pdf": "3eb970c6aa3096fd752dbbfa59a8791607fe90fbf9c5449b18c5e8b78b12a5e7",
+      "sha256_markdown": "5f9f1d376f18a08b8de45566a7efce7d6360e5ea864920bf9bde0d6d0f04f037"
+    },
+    {
+      "filename": "snpen@s60@a2025@n07543@tS.clean.md",
+      "solr_id": "snpen2025607543S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 7543,
+      "tipo": "S",
+      "articles_matched": [
+        "318",
+        "322"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250225/snpen%40s60%40a2025%40n07543%40tS.clean.pdf",
+      "sha256_pdf": "05f3717f45ba3bcb6da5e4da8f48e5f2b4366bdf6071792523ae0044ade1125d",
+      "sha256_markdown": "5f8f03d4317fe26afcaf8ffe470a05ca9bfe384c64ce724f197bea87419a26a1"
+    },
+    {
+      "filename": "snpen@s60@a2025@n08246@tS.clean.md",
+      "solr_id": "snpen2025608246S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 8246,
+      "tipo": "S",
+      "articles_matched": [
+        "318",
+        "319",
+        "321"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250227/snpen%40s60%40a2025%40n08246%40tS.clean.pdf",
+      "sha256_pdf": "81076606598413df11fe08af984f6f47f3cac7e62513099cc107ed0b39d5f7e5",
+      "sha256_markdown": "d12360c8d2b184f0ae149bc05ea87b83300a1ae69f7eff906b48822953e9e695"
+    },
+    {
+      "filename": "snpen@s60@a2025@n09248@tS.clean.md",
+      "solr_id": "snpen2025609248S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 9248,
+      "tipo": "S",
+      "articles_matched": [
+        "319"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250306/snpen%40s60%40a2025%40n09248%40tS.clean.pdf",
+      "sha256_pdf": "3951e1febfd2c250da3961213f90bcc16078d40cf671e0f27d4ad1cd9952e822",
+      "sha256_markdown": "c3038a63f74529bd8507034885ce836e1d30c507ebf8e77ddfd6e23aeefec4e2"
+    },
+    {
+      "filename": "snpen@s60@a2025@n10059@tS.clean.md",
+      "solr_id": "snpen2025610059S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 10059,
+      "tipo": "S",
+      "articles_matched": [
+        "318",
+        "319",
+        "321",
+        "322",
+        "323"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250313/snpen%40s60%40a2025%40n10059%40tS.clean.pdf",
+      "sha256_pdf": "22e50806462f8d1500a99a1bf9d3cb8f97cdd981fa42eafa3ff43c288fe044c7",
+      "sha256_markdown": "693bf1b8dc1c4928089f5a8a8070e28e600c7ab1d2b887d359307e7741e44a2d"
+    },
+    {
+      "filename": "snpen@s60@a2025@n10060@tS.clean.md",
+      "solr_id": "snpen2025610060S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 10060,
+      "tipo": "S",
+      "articles_matched": [
+        "318",
+        "319",
+        "320",
+        "321",
+        "322"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250313/snpen%40s60%40a2025%40n10060%40tS.clean.pdf",
+      "sha256_pdf": "c54cd79f45397bd88f68737fdf8fcb4ccd1ea87d18e7dcfc765187bcbff3b00c",
+      "sha256_markdown": "f91e348105c48e7ebda599ea5662e746b861171315edb3715613e04dcc1afc8d"
+    },
+    {
+      "filename": "snpen@s60@a2025@n10077@tS.clean.md",
+      "solr_id": "snpen2025610077S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 10077,
+      "tipo": "S",
+      "articles_matched": [
+        "321"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250313/snpen%40s60%40a2025%40n10077%40tS.clean.pdf",
+      "sha256_pdf": "8cd0ee6ae9b96cb8a4b71be2d6f3e8ca86ed6f5bd3d06925e261d0f1d9eb6f8f",
+      "sha256_markdown": "b68b71f0f6ed770d7b034ff290491bb034aa65158ce1bd3812e98c893739a3f4"
+    },
+    {
+      "filename": "snpen@s60@a2025@n10385@tS.clean.md",
+      "solr_id": "snpen2025610385S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 10385,
+      "tipo": "S",
+      "articles_matched": [
+        "318",
+        "319",
+        "322"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250314/snpen%40s60%40a2025%40n10385%40tS.clean.pdf",
+      "sha256_pdf": "88d43a5e613dc958caa84a55796346b2e5dd64ed38435b1412aba3381e172609",
+      "sha256_markdown": "73baf8d61b47c5e6daa9b5beb3fe95ac7124eb90eefec068bf07cf7011565f81"
+    },
+    {
+      "filename": "snpen@s60@a2025@n10501@tS.clean.md",
+      "solr_id": "snpen2025610501S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 10501,
+      "tipo": "S",
+      "articles_matched": [
+        "318",
+        "319",
+        "321"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250317/snpen%40s60%40a2025%40n10501%40tS.clean.pdf",
+      "sha256_pdf": "0af55b01c7c69e4a479a1e7532dcf403922153a3b392ca1f87efc95327ff4e2d",
+      "sha256_markdown": "14b775d2da268fac200a2f7d8f2c08183efec816a26622894e0c77ebc973a3f0"
+    },
+    {
+      "filename": "snpen@s60@a2025@n10941@tS.clean.md",
+      "solr_id": "snpen2025610941S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 10941,
+      "tipo": "S",
+      "articles_matched": [
+        "322"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250319/snpen%40s60%40a2025%40n10941%40tS.clean.pdf",
+      "sha256_pdf": "f06564ec5f35d9fd79fa22081e39aa32d84b2ce306642a9cbd276dd494ce67f6",
+      "sha256_markdown": "ba3d2467b1d64f77a5150baa659fed51f7ee6b18e8275962e45d31ba48e1fc21"
+    },
+    {
+      "filename": "snpen@s60@a2025@n11687@tS.clean.md",
+      "solr_id": "snpen2025611687S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 11687,
+      "tipo": "S",
+      "articles_matched": [
+        "321"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250324/snpen%40s60%40a2025%40n11687%40tS.clean.pdf",
+      "sha256_pdf": "f27cfdceda859ed0f84a9beb811efef34a83ec90945cc77467f4fa88105bc0ac",
+      "sha256_markdown": "3038e4861a801dd325cd4cd9e9fd5d63d8bf3f7d862dde467b31e78666a0d0ac"
+    },
+    {
+      "filename": "snpen@s60@a2025@n12001@tS.clean.md",
+      "solr_id": "snpen2025612001S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 12001,
+      "tipo": "S",
+      "articles_matched": [
+        "318"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250326/snpen%40s60%40a2025%40n12001%40tS.clean.pdf",
+      "sha256_pdf": "7f0d915ff363e3b52861790a0dfeb8423f045ff14f5945971713a3de0d4b20c7",
+      "sha256_markdown": "7e11d2b8db3226194731c06507b42332c9012282a4af7d9cb911389c9f154cd6"
+    },
+    {
+      "filename": "snpen@s60@a2025@n12762@tS.clean.md",
+      "solr_id": "snpen2025612762S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 12762,
+      "tipo": "S",
+      "articles_matched": [
+        "318",
+        "319",
+        "321"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250402/snpen%40s60%40a2025%40n12762%40tS.clean.pdf",
+      "sha256_pdf": "f7ff6d685db676fec872f8923c0a4c5d8e4cf96cfa8c3b01fe6d5915d0455d72",
+      "sha256_markdown": "39300571eaed7b40a8383aab2f86e7f08890ca7ca3ede2a673c74583724b5d3d"
+    },
+    {
+      "filename": "snpen@s60@a2025@n12771@tS.clean.md",
+      "solr_id": "snpen2025612771S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 12771,
+      "tipo": "S",
+      "articles_matched": [
+        "319",
+        "321",
+        "322"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250402/snpen%40s60%40a2025%40n12771%40tS.clean.pdf",
+      "sha256_pdf": "0697e8bbf801219cff0e60d394ffab6f386a7b1bb60f0381d9e81d7632653669",
+      "sha256_markdown": "1a9b3fc75386acc30e56170955cf9b07a8c233424bbae879754ccd305edacd31"
+    },
+    {
+      "filename": "snpen@s60@a2025@n13092@tS.clean.md",
+      "solr_id": "snpen2025613092S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 13092,
+      "tipo": "S",
+      "articles_matched": [
+        "319",
+        "321"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250403/snpen%40s60%40a2025%40n13092%40tS.clean.pdf",
+      "sha256_pdf": "15f45a21c82be40038e0716b5b2a994acefc502798fd2bbe2f1745679f4a8f52",
+      "sha256_markdown": "0fbd416c3e7ef204a2f8b41dfe5f12197be40457a3d0e72f04bfbfbac2570bd9"
+    },
+    {
+      "filename": "snpen@s60@a2025@n13339@tS.clean.md",
+      "solr_id": "snpen2025613339S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 13339,
+      "tipo": "S",
+      "articles_matched": [
+        "321",
+        "322"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250407/snpen%40s60%40a2025%40n13339%40tS.clean.pdf",
+      "sha256_pdf": "2e3e53992890ba7abcdcbb728ac9ec7e08bdfaeef7ae95390fd3163845138e03",
+      "sha256_markdown": "36954a6a9f9e5a9ba868e8f9a7fc5da4547ec6abfc916bfca2364e88c4b4145c"
+    },
+    {
+      "filename": "snpen@s60@a2025@n13346@tS.clean.md",
+      "solr_id": "snpen2025613346S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 13346,
+      "tipo": "S",
+      "articles_matched": [
+        "318"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250407/snpen%40s60%40a2025%40n13346%40tS.clean.pdf",
+      "sha256_pdf": "ca9cae1d4d592a0dad1d674f88a0dd2afb0e61296bee6195018a4306107ac23d",
+      "sha256_markdown": "40f8343396d32b90cd8667f516fdb21011c20df23b6ebb571ca3a21103ac72b8"
+    },
+    {
+      "filename": "snpen@s60@a2025@n13620@tS.clean.md",
+      "solr_id": "snpen2025613620S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 13620,
+      "tipo": "S",
+      "articles_matched": [
+        "321",
+        "322"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250408/snpen%40s60%40a2025%40n13620%40tS.clean.pdf",
+      "sha256_pdf": "c30358641d2049bb3bb3685b8d53f2a6c3966f61453d59937d637d9f277dc97f",
+      "sha256_markdown": "eaf6a221e36746f051fe2f2812106a944318b33b9988487e8b646422e714ee22"
+    },
+    {
+      "filename": "snpen@s60@a2025@n14339@tS.clean.md",
+      "solr_id": "snpen2025614339S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 14339,
+      "tipo": "S",
+      "articles_matched": [
+        "319"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250411/snpen%40s60%40a2025%40n14339%40tS.clean.pdf",
+      "sha256_pdf": "74f701a05d186d596f830109c17c41b2fa0df39fd8786b6f2b612efb9656dde0",
+      "sha256_markdown": "60c020b38e2cca3ed0f3d82fdb506117601007077bd1d671f8f3d79a131dc7ca"
+    },
+    {
+      "filename": "snpen@s60@a2025@n14341@tS.clean.md",
+      "solr_id": "snpen2025614341S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 14341,
+      "tipo": "S",
+      "articles_matched": [
+        "319",
+        "321",
+        "323"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250411/snpen%40s60%40a2025%40n14341%40tS.clean.pdf",
+      "sha256_pdf": "4d9fd2b3541d227a5a0df6b68abcbd555a733782ae82505ee38b137457bb4e28",
+      "sha256_markdown": "0aaba9a14fa4a9ad1bb90cacb90a14598f61c5e0af1e9cb2f10cf2a3555bcb75"
+    },
+    {
+      "filename": "snpen@s60@a2025@n14850@tS.clean.md",
+      "solr_id": "snpen2025614850S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 14850,
+      "tipo": "S",
+      "articles_matched": [
+        "321"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250415/snpen%40s60%40a2025%40n14850%40tS.clean.pdf",
+      "sha256_pdf": "e8791ffd2ecacc3fca1795ebe1c486c9926f84169dcfcef165bc466e915e4bd0",
+      "sha256_markdown": "9add8006fc9f3a88f1ab0675294d339beea42eee8c07ef327f306ab097bc4f94"
+    },
+    {
+      "filename": "snpen@s60@a2025@n14851@tS.clean.md",
+      "solr_id": "snpen2025614851S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 14851,
+      "tipo": "S",
+      "articles_matched": [
+        "319",
+        "323"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250415/snpen%40s60%40a2025%40n14851%40tS.clean.pdf",
+      "sha256_pdf": "94e2f65d6895beca29e78a95037e38f03e96e83876f35d5ef93a19e543506605",
+      "sha256_markdown": "849f9fb942aef3292deb1eb08c4753ba408a6c4d687fd5f527e92af87e30c728"
+    },
+    {
+      "filename": "snpen@s60@a2025@n15502@tS.clean.md",
+      "solr_id": "snpen2025615502S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 15502,
+      "tipo": "S",
+      "articles_matched": [
+        "319",
+        "321"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250418/snpen%40s60%40a2025%40n15502%40tS.clean.pdf",
+      "sha256_pdf": "5afdf1daff3e191482b7df405b046e27ebaa62046a2488cd7f2de371ad6edd1e",
+      "sha256_markdown": "f4a4c808acbbc8e4bb72f7eb76ad83607664d87e4205d362abbe2786cb1bd7b2"
+    },
+    {
+      "filename": "snpen@s60@a2025@n15774@tS.clean.md",
+      "solr_id": "snpen2025615774S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 15774,
+      "tipo": "S",
+      "articles_matched": [
+        "319"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250423/snpen%40s60%40a2025%40n15774%40tS.clean.pdf",
+      "sha256_pdf": "1eb0134814dc2819b51e082e9bef9a5ed830fe95ce2685fbe072867af23afd88",
+      "sha256_markdown": "e1d132f2d80e4615d4e894e4cda17ae72f78680461676f708a2392d4e48fb5c9"
+    },
+    {
+      "filename": "snpen@s60@a2025@n15787@tS.clean.md",
+      "solr_id": "snpen2025615787S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 15787,
+      "tipo": "S",
+      "articles_matched": [
+        "319"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250423/snpen%40s60%40a2025%40n15787%40tS.clean.pdf",
+      "sha256_pdf": "0b1aa0c16d8e7d891279e01341e8bb729affeff7b30386b9832e651873290da6",
+      "sha256_markdown": "ee8f122d98221186594453dcdfe3d22e63f088604688dd7d068a1318f0a6987b"
+    },
+    {
+      "filename": "snpen@s60@a2025@n15922@tS.clean.md",
+      "solr_id": "snpen2025615922S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 15922,
+      "tipo": "S",
+      "articles_matched": [
+        "319",
+        "321"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250424/snpen%40s60%40a2025%40n15922%40tS.clean.pdf",
+      "sha256_pdf": "0fe4dbc7fa30d2eea25b455d6a98f17ddd2e25afa9666275ae7dfe573b4511b0",
+      "sha256_markdown": "25225c2edc21957b96bd5c374f4a5a33b4ca4c7d62794400b4439259943326ad"
+    },
+    {
+      "filename": "snpen@s60@a2025@n16979@tS.clean.md",
+      "solr_id": "snpen2025616979S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 16979,
+      "tipo": "S",
+      "articles_matched": [
+        "319"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250507/snpen%40s60%40a2025%40n16979%40tS.clean.pdf",
+      "sha256_pdf": "cc3ab775e557a992113e357eab6070e4b1e28e9968c482c5296101691844bb9c",
+      "sha256_markdown": "53fb87dddda4e93eaaff6578dc7726105c7a703cb6167429e555de5874d32732"
+    },
+    {
+      "filename": "snpen@s60@a2025@n16982@tS.clean.md",
+      "solr_id": "snpen2025616982S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 16982,
+      "tipo": "S",
+      "articles_matched": [
+        "318",
+        "321",
+        "322"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250507/snpen%40s60%40a2025%40n16982%40tS.clean.pdf",
+      "sha256_pdf": "21391cdfc44b6768b548261212153c1a09d8fddd150f2d0c7186495fb5719ad3",
+      "sha256_markdown": "bdcc2cef83ce4623534c01df2560e5e6855de809a2e183603788ee4f498b1952"
+    },
+    {
+      "filename": "snpen@s60@a2025@n17003@tS.clean.md",
+      "solr_id": "snpen2025617003S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 17003,
+      "tipo": "S",
+      "articles_matched": [
+        "318",
+        "321"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250507/snpen%40s60%40a2025%40n17003%40tS.clean.pdf",
+      "sha256_pdf": "a034183e1a4a7e9851c1e76d74997a05959999a940595c3d19c6a94558d29948",
+      "sha256_markdown": "fc08a3c026b862db3660b7b9bbd0d04ceb11647ffa1c7a8b5c52d60960c372bd"
+    },
+    {
+      "filename": "snpen@s60@a2025@n17475@tS.clean.md",
+      "solr_id": "snpen2025617475S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 17475,
+      "tipo": "S",
+      "articles_matched": [
+        "318",
+        "319",
+        "322",
+        "323"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250508/snpen%40s60%40a2025%40n17475%40tS.clean.pdf",
+      "sha256_pdf": "d6032dacf59f23dc7e10080e825f82edafec9226eaccee5d62348d8211156641",
+      "sha256_markdown": "6ed4c7cd8841aac032e87c52d900b6cdc83e92d0e9e04ec1b7495fb53f060fa3"
+    },
+    {
+      "filename": "snpen@s60@a2025@n17480@tO.clean.md",
+      "solr_id": "snpen2025617480O",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 17480,
+      "tipo": "O",
+      "articles_matched": [
+        "318",
+        "322"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250508/snpen%40s60%40a2025%40n17480%40tO.clean.pdf",
+      "sha256_pdf": "e1681dce1edb751140d12a26d68ef230b9e5baae70b067a4c5aa85f22554a24e",
+      "sha256_markdown": "7ac207aa29569bb5571e414b7859bddb122ab31f92fa85c9d439b6a9753fb2e7"
+    },
+    {
+      "filename": "snpen@s60@a2025@n17679@tS.clean.md",
+      "solr_id": "snpen2025617679S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 17679,
+      "tipo": "S",
+      "articles_matched": [
+        "318",
+        "319"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250509/snpen%40s60%40a2025%40n17679%40tS.clean.pdf",
+      "sha256_pdf": "a8db3e6a019036ab7fcd2446b674ec17f36dbf67d7cc137e9b972476a03d82a9",
+      "sha256_markdown": "9ea83826097e847c066c3de9fff1cba958e83c454f54b5f788f0ddef87172583"
+    },
+    {
+      "filename": "snpen@s60@a2025@n17681@tS.clean.md",
+      "solr_id": "snpen2025617681S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 17681,
+      "tipo": "S",
+      "articles_matched": [
+        "318",
+        "321",
+        "322"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250509/snpen%40s60%40a2025%40n17681%40tS.clean.pdf",
+      "sha256_pdf": "4b40f093e02d5e212ee6232e2fa5fa52fd614924ef5e4f352f686e8adfb36d69",
+      "sha256_markdown": "7dff1a927cdfc53dadbc90271d50483910bbda745beec267de365512ffa09f14"
+    },
+    {
+      "filename": "snpen@s60@a2025@n17700@tO.clean.md",
+      "solr_id": "snpen2025617700O",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 17700,
+      "tipo": "O",
+      "articles_matched": [
+        "321",
+        "322"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250509/snpen%40s60%40a2025%40n17700%40tO.clean.pdf",
+      "sha256_pdf": "3b4c4bba7458a0309c3f741fd69a9ae5da1189406207dd2b34fdbeec978fa13f",
+      "sha256_markdown": "a0fd5193d87670888d0725fcccdbe7a139dd4a692ddb9a65fc93836dd4b2e7e1"
+    },
+    {
+      "filename": "snpen@s60@a2025@n17916@tS.clean.md",
+      "solr_id": "snpen2025617916S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 17916,
+      "tipo": "S",
+      "articles_matched": [
+        "318",
+        "321"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250513/snpen%40s60%40a2025%40n17916%40tS.clean.pdf",
+      "sha256_pdf": "e4012590ad6c56c1e93c3527cb4c63978b54939d8914ccc6c7a8d36b4c68497f",
+      "sha256_markdown": "e194643e4e9e66b6e2ce8afdccd1252f7cc5ef6e01da6771ebe1f93eddd32a22"
+    },
+    {
+      "filename": "snpen@s60@a2025@n18325@tS.clean.md",
+      "solr_id": "snpen2025618325S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 18325,
+      "tipo": "S",
+      "articles_matched": [
+        "318",
+        "319",
+        "320"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250515/snpen%40s60%40a2025%40n18325%40tS.clean.pdf",
+      "sha256_pdf": "6489fc0bad0530e5212e66a9bfac104963649532141288d5261434bfcc26730b",
+      "sha256_markdown": "b779f3194656ba86a9f7a551c4db65f856e510c9146a155f967e41a92bdf29d9"
+    },
+    {
+      "filename": "snpen@s60@a2025@n19115@tS.clean.md",
+      "solr_id": "snpen2025619115S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 19115,
+      "tipo": "S",
+      "articles_matched": [
+        "319",
+        "322"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250522/snpen%40s60%40a2025%40n19115%40tS.clean.pdf",
+      "sha256_pdf": "c73c7710d7a1023a032fc7b4c97cab27629f5cd0979b5566f32c10d88dd833a4",
+      "sha256_markdown": "f3594826a0e4f2e8c6256846de7a2be1a9c416790a4e3c354b701c1e3169940b"
+    },
+    {
+      "filename": "snpen@s60@a2025@n19465@tS.clean.md",
+      "solr_id": "snpen2025619465S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 19465,
+      "tipo": "S",
+      "articles_matched": [
+        "319",
+        "321",
+        "323"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250526/snpen%40s60%40a2025%40n19465%40tS.clean.pdf",
+      "sha256_pdf": "1ca3212ae2ae1839dd1277e3aeaba3d7c11c0fed9af447f78b483a1b0e910d76",
+      "sha256_markdown": "ad033f6caffd0d4ff74b305250b467020f76c6ef3240adc916efb45f7f476496"
+    },
+    {
+      "filename": "snpen@s60@a2025@n19717@tS.clean.md",
+      "solr_id": "snpen2025619717S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 19717,
+      "tipo": "S",
+      "articles_matched": [
+        "321",
+        "322",
+        "323"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250527/snpen%40s60%40a2025%40n19717%40tS.clean.pdf",
+      "sha256_pdf": "ed875f62b61f483e65461fd10d9db15764468f841e9c1fd8a140be154a4635c9",
+      "sha256_markdown": "fce1ad7a7c05030e57be72c0fc2b6d7830b9c849bb54a78be2c57dda8288d7ff"
+    },
+    {
+      "filename": "snpen@s60@a2025@n19719@tS.clean.md",
+      "solr_id": "snpen2025619719S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 19719,
+      "tipo": "S",
+      "articles_matched": [
+        "319",
+        "322"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250527/snpen%40s60%40a2025%40n19719%40tS.clean.pdf",
+      "sha256_pdf": "df46e1de16b27decb7df28c150efce1876ba2f0ec99d8b743abd95519f1ba7cc",
+      "sha256_markdown": "aa43f05367123d23daa057370bdbf8206648de73dca02b285049a0363fd1702a"
+    },
+    {
+      "filename": "snpen@s60@a2025@n20255@tS.clean.md",
+      "solr_id": "snpen2025620255S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 20255,
+      "tipo": "S",
+      "articles_matched": [
+        "318",
+        "319",
+        "321",
+        "322"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250530/snpen%40s60%40a2025%40n20255%40tS.clean.pdf",
+      "sha256_pdf": "0f4090084c8e58f57cf3e6907bfcccf268b3dbc6969f21e22282c6bde5aa0d96",
+      "sha256_markdown": "3b2fdbd919a8586543714f260d612b703ce8d6f871d4fc04fb69886713983288"
+    },
+    {
+      "filename": "snpen@s60@a2025@n21225@tS.clean.md",
+      "solr_id": "snpen2025621225S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 21225,
+      "tipo": "S",
+      "articles_matched": [
+        "319",
+        "320"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250605/snpen%40s60%40a2025%40n21225%40tS.clean.pdf",
+      "sha256_pdf": "3e142473f671f82146cb53fd750ff9a76da30d82db017ae56e579c0d7a7009b1",
+      "sha256_markdown": "f75f21b3a4b48b64758fa32c6cb4987ebcbcef5008fdf512e5d44628b9618e0c"
+    },
+    {
+      "filename": "snpen@s60@a2025@n22435@tS.clean.md",
+      "solr_id": "snpen2025622435S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 22435,
+      "tipo": "S",
+      "articles_matched": [
+        "319"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250613/snpen%40s60%40a2025%40n22435%40tS.clean.pdf",
+      "sha256_pdf": "275b9c529e0fbc08cde158dd7f8c82e59205b56235e7b427d158d7b5dc2c6a84",
+      "sha256_markdown": "8cdc08c24e6d28e2305c6426e6bdfd9fea071aa6ad76948345ce3d545a687224"
+    },
+    {
+      "filename": "snpen@s60@a2025@n23329@tS.clean.md",
+      "solr_id": "snpen2025623329S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 23329,
+      "tipo": "S",
+      "articles_matched": [
+        "322"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250623/snpen%40s60%40a2025%40n23329%40tS.clean.pdf",
+      "sha256_pdf": "c435f0dd9b33399a9cad1a506af758ecdab7f2acb4e65a14c099c0ce20e64cce",
+      "sha256_markdown": "8d95888ef7440edaf61b5773dadffafb171641482aa9a66ac3a85f2c29317638"
+    },
+    {
+      "filename": "snpen@s60@a2025@n23798@tS.clean.md",
+      "solr_id": "snpen2025623798S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 23798,
+      "tipo": "S",
+      "articles_matched": [
+        "321"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250625/snpen%40s60%40a2025%40n23798%40tS.clean.pdf",
+      "sha256_pdf": "7f73b5b39642fda9427446d6627acfacc6309b2d85e0d22da989c209dcf77f8d",
+      "sha256_markdown": "a9fc131473f05ceafbf6be8b590a1bc3b4de1c0c807c2fc51bf4b8fa61eef34e"
+    },
+    {
+      "filename": "snpen@s60@a2025@n23808@tS.clean.md",
+      "solr_id": "snpen2025623808S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 23808,
+      "tipo": "S",
+      "articles_matched": [
+        "319",
+        "321"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250625/snpen%40s60%40a2025%40n23808%40tS.clean.pdf",
+      "sha256_pdf": "b703b1c6b47d4e83fd8557516987eceb3e004344d93d9e52ad2441e385f856d3",
+      "sha256_markdown": "2ebb1cced69db470a4231088ea5279de3f16ceb49489d6122ea1023e0b436027"
+    },
+    {
+      "filename": "snpen@s60@a2025@n23958@tS.clean.md",
+      "solr_id": "snpen2025623958S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 23958,
+      "tipo": "S",
+      "articles_matched": [
+        "318",
+        "319",
+        "320",
+        "322",
+        "323"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250627/snpen%40s60%40a2025%40n23958%40tS.clean.pdf",
+      "sha256_pdf": "8e5a17cac7b731ec6a61a103cefea08f43a6509740c8fb36cded827af82f659f",
+      "sha256_markdown": "bd0f90856843b5d4faf9a474fc057b8af901bc6d3a9f05220e09e753e076d710"
+    },
+    {
+      "filename": "snpen@s60@a2025@n23977@tS.clean.md",
+      "solr_id": "snpen2025623977S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 23977,
+      "tipo": "S",
+      "articles_matched": [
+        "318",
+        "321"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250627/snpen%40s60%40a2025%40n23977%40tS.clean.pdf",
+      "sha256_pdf": "92d0eb91b89eed02fe568c5eee723f598a1a6cc0b1d2e9fcbdde2c1aa922fe2c",
+      "sha256_markdown": "7caab50410fed178dc1bc427bf62519db835b8526146e0f2fd75f39644d86195"
+    },
+    {
+      "filename": "snpen@s60@a2025@n23980@tS.clean.md",
+      "solr_id": "snpen2025623980S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 23980,
+      "tipo": "S",
+      "articles_matched": [
+        "320",
+        "321",
+        "323"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250627/snpen%40s60%40a2025%40n23980%40tS.clean.pdf",
+      "sha256_pdf": "d41687dd4dfcd09ee79a57cd9511aa0bb383f14ed6b8145f6a2b24a4445f0b88",
+      "sha256_markdown": "4bd0c13c42b9735d3fbd12ae56d72ea3902c3ca15375f82bae05b03da1e47c4a"
+    },
+    {
+      "filename": "snpen@s60@a2025@n25611@tS.clean.md",
+      "solr_id": "snpen2025625611S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 25611,
+      "tipo": "S",
+      "articles_matched": [
+        "318",
+        "319",
+        "323"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250711/snpen%40s60%40a2025%40n25611%40tS.clean.pdf",
+      "sha256_pdf": "8eb5124ddee03cfad774954439b96c0620a7b3e04a3dee28ece2e992260de563",
+      "sha256_markdown": "b7bb5b82b044adb60ac758b577056fd19c0237376b192c925259e1a1351226e9"
+    },
+    {
+      "filename": "snpen@s60@a2025@n25621@tS.clean.md",
+      "solr_id": "snpen2025625621S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 25621,
+      "tipo": "S",
+      "articles_matched": [
+        "321"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250711/snpen%40s60%40a2025%40n25621%40tS.clean.pdf",
+      "sha256_pdf": "cacdd137a23e79cc9160692443e4500cab60cd9d474446cac16ab4a54dc175e6",
+      "sha256_markdown": "5dd39d40ea7035b27fdab0136ce25db5bd60245c2c2eb2616cf028c576f06b97"
+    },
+    {
+      "filename": "snpen@s60@a2025@n25745@tS.clean.md",
+      "solr_id": "snpen2025625745S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 25745,
+      "tipo": "S",
+      "articles_matched": [
+        "318",
+        "319"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250714/snpen%40s60%40a2025%40n25745%40tS.clean.pdf",
+      "sha256_pdf": "98b47c9e8415304a445811ba6cc5a9f70c5bfd5ae3508e743dce617233194cf0",
+      "sha256_markdown": "99ac0f9dd0c55901077d797f9598757639ce0bfab4494586fd11fd63c9b6a0b5"
+    },
+    {
+      "filename": "snpen@s60@a2025@n25748@tO.clean.md",
+      "solr_id": "snpen2025625748O",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 25748,
+      "tipo": "O",
+      "articles_matched": [
+        "319",
+        "321"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250714/snpen%40s60%40a2025%40n25748%40tO.clean.pdf",
+      "sha256_pdf": "c86c20fe1b8e4b6208ed9fbddf46c3bf7c3010efc373972663668af9554382e5",
+      "sha256_markdown": "2f2e5ade3f9c521f1ec729da3c99c5b25ce1dc85fa88b93e77f695ed85891ac8"
+    },
+    {
+      "filename": "snpen@s60@a2025@n25941@tS.clean.md",
+      "solr_id": "snpen2025625941S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 25941,
+      "tipo": "S",
+      "articles_matched": [
+        "318"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250715/snpen%40s60%40a2025%40n25941%40tS.clean.pdf",
+      "sha256_pdf": "cedc8b8ce70ef7996a8642da91e17ddc7ff82a04c5d0206838e3d555db80d3e9",
+      "sha256_markdown": "e05f0fe053bcf8433dfa1aded137df0a518b802afb77e98ecf4dfc14a9a3db90"
+    },
+    {
+      "filename": "snpen@s60@a2025@n26109@tS.clean.md",
+      "solr_id": "snpen2025626109S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 26109,
+      "tipo": "S",
+      "articles_matched": [
+        "318",
+        "319",
+        "320",
+        "321",
+        "322"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250716/snpen%40s60%40a2025%40n26109%40tS.clean.pdf",
+      "sha256_pdf": "5cbdd17a7728a8372b13d18830e3d9d0c696b0dff7bb0ed41c63c53e263f8575",
+      "sha256_markdown": "e784bf601783caa8cc1ecc9eecfbb824139a857f3d458ddafbce9d96d3fa432f"
+    },
+    {
+      "filename": "snpen@s60@a2025@n26571@tS.clean.md",
+      "solr_id": "snpen2025626571S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 26571,
+      "tipo": "S",
+      "articles_matched": [
+        "319",
+        "321"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250721/snpen%40s60%40a2025%40n26571%40tS.clean.pdf",
+      "sha256_pdf": "7997c9170a38678d587dd9cba76c78622c02dd655eea74104d4f02d94fd9bf41",
+      "sha256_markdown": "febdd03f4afdfc5a74f8a8b9bcdf66221bea581c34f72c230b5a4b3b2b024363"
+    },
+    {
+      "filename": "snpen@s60@a2025@n26580@tO.clean.md",
+      "solr_id": "snpen2025626580O",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 26580,
+      "tipo": "O",
+      "articles_matched": [
+        "319"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250721/snpen%40s60%40a2025%40n26580%40tO.clean.pdf",
+      "sha256_pdf": "c8c27e85392df5846c57cde17ed024da34697fa7ad2d530a411c4b4d2507772d",
+      "sha256_markdown": "b0ae676ba94aab38f8a0cd545d5a694d93087ea8aea2f6c683af5f63c2afe08c"
+    },
+    {
+      "filename": "snpen@s60@a2025@n27061@tS.clean.md",
+      "solr_id": "snpen2025627061S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 27061,
+      "tipo": "S",
+      "articles_matched": [
+        "319"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250724/snpen%40s60%40a2025%40n27061%40tS.clean.pdf",
+      "sha256_pdf": "e58535909b8b2d1216930928cafc77a2402a8ce2d9fb9e629467133cbdb71b72",
+      "sha256_markdown": "325e5f8553edf4d5363ffa5b9e403dbdc1916891e65fb467e779a936cc1996ae"
+    },
+    {
+      "filename": "snpen@s60@a2025@n30184@tS.clean.md",
+      "solr_id": "snpen2025630184S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 30184,
+      "tipo": "S",
+      "articles_matched": [
+        "321",
+        "322"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250903/snpen%40s60%40a2025%40n30184%40tS.clean.pdf",
+      "sha256_pdf": "8848966dfe46a2686403ff8a4de45ee13b5c9c0d58055e35ebd87c0f2e074f7e",
+      "sha256_markdown": "a2bbd771bd7fb6f598659f41d89e04c455d7e635cc704b35e5ea2bd5f42e2a9f"
+    },
+    {
+      "filename": "snpen@s60@a2025@n30602@tS.clean.md",
+      "solr_id": "snpen2025630602S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 30602,
+      "tipo": "S",
+      "articles_matched": [
+        "319"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250912/snpen%40s60%40a2025%40n30602%40tS.clean.pdf",
+      "sha256_pdf": "f947a7aff90cba94d42d9eedf3815b19ccc38601303ed81a92ccf9db14e3c3a8",
+      "sha256_markdown": "595146f6f895eda4f374ba60541da2b2e8808be74f9877fbe454672761f0ec5b"
+    },
+    {
+      "filename": "snpen@s60@a2025@n31857@tS.clean.md",
+      "solr_id": "snpen2025631857S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 31857,
+      "tipo": "S",
+      "articles_matched": [
+        "318",
+        "319",
+        "321",
+        "322",
+        "323"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20250924/snpen%40s60%40a2025%40n31857%40tS.clean.pdf",
+      "sha256_pdf": "36fd091dc58ea501177ef12b461fe13bb60dcc057b5dee94b9770b5d12c949dd",
+      "sha256_markdown": "a141e8e96d25643888d5e041311b1d90bb9e00eb6d1e661c9d25edb69214d9c8"
+    },
+    {
+      "filename": "snpen@s60@a2025@n32487@tS.clean.md",
+      "solr_id": "snpen2025632487S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 32487,
+      "tipo": "S",
+      "articles_matched": [
+        "319",
+        "321"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20251001/snpen%40s60%40a2025%40n32487%40tS.clean.pdf",
+      "sha256_pdf": "d941d2ff0d966cc1b1c6fe1c37a9cf68e39de96c794a5e8321855c3be7147392",
+      "sha256_markdown": "940635c7d369cce0a7e1ad7367ca4cbe5fa72be34b76a60eaf5bec01ffbdda73"
+    },
+    {
+      "filename": "snpen@s60@a2025@n32509@tS.clean.md",
+      "solr_id": "snpen2025632509S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 32509,
+      "tipo": "S",
+      "articles_matched": [
+        "321",
+        "322"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20251001/snpen%40s60%40a2025%40n32509%40tS.clean.pdf",
+      "sha256_pdf": "4e1c2acf859e377be3f85a0b6222f0a1e4e1d5b0da95494f2fc9d3b521eac460",
+      "sha256_markdown": "201727c82ac80407b272fc10c8636b4dbe4a195c4b9d5db92f3abda446a4c197"
+    },
+    {
+      "filename": "snpen@s60@a2025@n33705@tS.clean.md",
+      "solr_id": "snpen2025633705S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 33705,
+      "tipo": "S",
+      "articles_matched": [
+        "318",
+        "321"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20251014/snpen%40s60%40a2025%40n33705%40tS.clean.pdf",
+      "sha256_pdf": "4fab40bf77c0f996953f90b439e6727237b71d9cfc1a8cd61441d5ff0df2f6e9",
+      "sha256_markdown": "a18549433a29ad143dc582379d123e15d4eb11a486e7d472ac3a61f8d74dd59e"
+    },
+    {
+      "filename": "snpen@s60@a2025@n33719@tO.clean.md",
+      "solr_id": "snpen2025633719O",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 33719,
+      "tipo": "O",
+      "articles_matched": [
+        "318"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20251014/snpen%40s60%40a2025%40n33719%40tO.clean.pdf",
+      "sha256_pdf": "6e44dfe627650e9689c1131fa62719fbac25fd8ca7b217b60fc19e99046994bf",
+      "sha256_markdown": "4aa0ee98c623b35645dd351ebcbd923bcd5fce2d79658ee2aac950f6893d33d8"
+    },
+    {
+      "filename": "snpen@s60@a2025@n34306@tS.clean.md",
+      "solr_id": "snpen2025634306S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 34306,
+      "tipo": "S",
+      "articles_matched": [
+        "321"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20251021/snpen%40s60%40a2025%40n34306%40tS.clean.pdf",
+      "sha256_pdf": "5312ef5cae5c57b60969df04ca5da74bc7a0d6c1b2b3e8834b59f813a8a29f76",
+      "sha256_markdown": "37558f3bdde15db9b230707c2fa7ff2f237f595d574200958ff6ca000a86e4ff"
+    },
+    {
+      "filename": "snpen@s60@a2025@n34307@tS.clean.md",
+      "solr_id": "snpen2025634307S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 34307,
+      "tipo": "S",
+      "articles_matched": [
+        "319",
+        "321"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20251021/snpen%40s60%40a2025%40n34307%40tS.clean.pdf",
+      "sha256_pdf": "c6d607e9b9cba65bfda4929b499898c5b5a5cdf9008064e8590c6eb96f2dd546",
+      "sha256_markdown": "892134d866544898735a450fabd208ca36eaf08a98eeb451911ff7695923237c"
+    },
+    {
+      "filename": "snpen@s60@a2025@n34382@tS.clean.md",
+      "solr_id": "snpen2025634382S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 34382,
+      "tipo": "S",
+      "articles_matched": [
+        "321",
+        "322"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20251022/snpen%40s60%40a2025%40n34382%40tS.clean.pdf",
+      "sha256_pdf": "b98a395d32e0d2edc67579940a8aa1faa6335dcfc6aa262f7563fd0694ff433f",
+      "sha256_markdown": "ec20a268d94005d54ec185945f4410567f0b7eb417bd0e208175025d8e58ebb7"
+    },
+    {
+      "filename": "snpen@s60@a2025@n34512@tS.clean.md",
+      "solr_id": "snpen2025634512S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 34512,
+      "tipo": "S",
+      "articles_matched": [
+        "319",
+        "322"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20251023/snpen%40s60%40a2025%40n34512%40tS.clean.pdf",
+      "sha256_pdf": "43fd7a1cfa5f59cbd02e47ade3e312e5b07e92f9b0a99b653f95451df8db9269",
+      "sha256_markdown": "e08d2ed4a0d6470f485a6cd4f57a2e69e835424e033d9c38c86adcddb529b7a3"
+    },
+    {
+      "filename": "snpen@s60@a2025@n35440@tS.clean.md",
+      "solr_id": "snpen2025635440S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 35440,
+      "tipo": "S",
+      "articles_matched": [
+        "319",
+        "321"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20251030/snpen%40s60%40a2025%40n35440%40tS.clean.pdf",
+      "sha256_pdf": "9a26ba8258f28663713784b673d7413db86c3e9111c4b7ae7726f534bfc4af5f",
+      "sha256_markdown": "4295c2e87dc4f915c61b33d3035d16f4588bebda0fd0dad1ea55c713a4ed04a0"
+    },
+    {
+      "filename": "snpen@s60@a2025@n35679@tS.clean.md",
+      "solr_id": "snpen2025635679S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 35679,
+      "tipo": "S",
+      "articles_matched": [
+        "321",
+        "322"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20251031/snpen%40s60%40a2025%40n35679%40tS.clean.pdf",
+      "sha256_pdf": "0bf5d6584e6b0f5beeb98e51e3e21ee2b3ae9bbe76ee92e309252baaca146ba4",
+      "sha256_markdown": "635731b3e14bc1567f5d780668b7be394289074e743ff0176f136b8fc2988d09"
+    },
+    {
+      "filename": "snpen@s60@a2025@n36033@tS.clean.md",
+      "solr_id": "snpen2025636033S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 36033,
+      "tipo": "S",
+      "articles_matched": [
+        "321"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20251105/snpen%40s60%40a2025%40n36033%40tS.clean.pdf",
+      "sha256_pdf": "76ebe017d5f008bacd70114bc69e5b821a142ae5a0f3e5986c801dde04b71c8c",
+      "sha256_markdown": "8a7cc21a1613a329a9f4264e7492d9a6e058be1488f0be85a0c457fe0ee2e23a"
+    },
+    {
+      "filename": "snpen@s60@a2025@n36051@tS.clean.md",
+      "solr_id": "snpen2025636051S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 36051,
+      "tipo": "S",
+      "articles_matched": [
+        "321",
+        "322"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20251105/snpen%40s60%40a2025%40n36051%40tS.clean.pdf",
+      "sha256_pdf": "6c6576aeab5f082f65d7a14d46f9ce89f2b272212c03af17448815c1aa7420ec",
+      "sha256_markdown": "9207c79f8ea0b78aab4930d02d1c7e554ee3ec1b2118402d159ade4384da93d8"
+    },
+    {
+      "filename": "snpen@s60@a2025@n36054@tS.clean.md",
+      "solr_id": "snpen2025636054S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 36054,
+      "tipo": "S",
+      "articles_matched": [
+        "318",
+        "319",
+        "323"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20251105/snpen%40s60%40a2025%40n36054%40tS.clean.pdf",
+      "sha256_pdf": "95625e2796cb8f3e5967962da46c52a53444e971b730224be01af81e7e95362d",
+      "sha256_markdown": "48314baa025ce0e349fe489a18c1776a2cfa40673d19d16d1206ce98a5677f8a"
+    },
+    {
+      "filename": "snpen@s60@a2025@n36358@tS.clean.md",
+      "solr_id": "snpen2025636358S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 36358,
+      "tipo": "S",
+      "articles_matched": [
+        "319",
+        "321",
+        "322"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20251107/snpen%40s60%40a2025%40n36358%40tS.clean.pdf",
+      "sha256_pdf": "9702b16d122ab319f66eed96d2423653d913a8e16d39608b351b9d6ec6ac0c44",
+      "sha256_markdown": "6ef6068f027cb88119d3a2a92d869a1c8ef1750eb7500ec737f4df7d5af557ef"
+    },
+    {
+      "filename": "snpen@s60@a2025@n36893@tS.clean.md",
+      "solr_id": "snpen2025636893S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 36893,
+      "tipo": "S",
+      "articles_matched": [
+        "318"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20251112/snpen%40s60%40a2025%40n36893%40tS.clean.pdf",
+      "sha256_pdf": "b9b0c78f8c57a4296877dbd8cbde473add03e4160844c6d5d8565c7cf231da90",
+      "sha256_markdown": "594a5a2c5c543b7b0d45b0e73a2a97d84161147924ae10120170ac5934927dbb"
+    },
+    {
+      "filename": "snpen@s60@a2025@n36894@tS.clean.md",
+      "solr_id": "snpen2025636894S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 36894,
+      "tipo": "S",
+      "articles_matched": [
+        "318"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20251112/snpen%40s60%40a2025%40n36894%40tS.clean.pdf",
+      "sha256_pdf": "68f32d47aba12dc1a2b2d8a0ac1b431d5fc46e13083d3ce3f7dbec8b46d1128f",
+      "sha256_markdown": "e584e83cb5197748e117153668b6a2fb6f81c7bf7ade9eca88da9011ba240f36"
+    },
+    {
+      "filename": "snpen@s60@a2025@n36895@tS.clean.md",
+      "solr_id": "snpen2025636895S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 36895,
+      "tipo": "S",
+      "articles_matched": [
+        "318"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20251112/snpen%40s60%40a2025%40n36895%40tS.clean.pdf",
+      "sha256_pdf": "10857c6df490c44c2675189e8c25c9cf1c1612776adfed857199c4614fcf65e1",
+      "sha256_markdown": "c94b7598f3e416713d0215947386325b8b859e842c9ce62705a739f6928d7f35"
+    },
+    {
+      "filename": "snpen@s60@a2025@n36921@tS.clean.md",
+      "solr_id": "snpen2025636921S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 36921,
+      "tipo": "S",
+      "articles_matched": [
+        "318",
+        "319"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20251112/snpen%40s60%40a2025%40n36921%40tS.clean.pdf",
+      "sha256_pdf": "90e7b208a46c39bf40c76516aa7a9482a15de09633c5d9bb311150f9e1d2c639",
+      "sha256_markdown": "125be543287e60bf99dd8003ce6e6eb086bc2ca2888e140fd5697c3175a43098"
+    },
+    {
+      "filename": "snpen@s60@a2025@n37375@tS.clean.md",
+      "solr_id": "snpen2025637375S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 37375,
+      "tipo": "S",
+      "articles_matched": [
+        "321",
+        "322"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20251117/snpen%40s60%40a2025%40n37375%40tS.clean.pdf",
+      "sha256_pdf": "70b962c772ee1bf3f6cb75feedfb94106f375d7ab4e8bd1f3223a0936beb5194",
+      "sha256_markdown": "79561a3c3f38d0d9ccccd320b3c49b766256ad8fb48b80fb284e071fd7297445"
+    },
+    {
+      "filename": "snpen@s60@a2025@n37641@tS.clean.md",
+      "solr_id": "snpen2025637641S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 37641,
+      "tipo": "S",
+      "articles_matched": [
+        "319"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20251118/snpen%40s60%40a2025%40n37641%40tS.clean.pdf",
+      "sha256_pdf": "ef0bfc1c24676b57f62c8ab6fae8ce3165a9d7e29f279d5c5889decceeffda50",
+      "sha256_markdown": "f98e792b3720fdfa389f704655c41e04f0f3d1d35b9ee81bfc6b4051a5284011"
+    },
+    {
+      "filename": "snpen@s60@a2025@n37728@tS.clean.md",
+      "solr_id": "snpen2025637728S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 37728,
+      "tipo": "S",
+      "articles_matched": [
+        "319",
+        "320",
+        "321"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20251119/snpen%40s60%40a2025%40n37728%40tS.clean.pdf",
+      "sha256_pdf": "95c6f74b0b8641fb249a2b1649917b70683f6a232161a4805aff0fc1e847b34b",
+      "sha256_markdown": "5b017e9fabfae8ae50671985abf676816356e3c3c8d3cf14278df0f0b97c9dcd"
+    },
+    {
+      "filename": "snpen@s60@a2025@n37944@tS.clean.md",
+      "solr_id": "snpen2025637944S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 37944,
+      "tipo": "S",
+      "articles_matched": [
+        "318",
+        "319",
+        "322",
+        "323"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20251121/snpen%40s60%40a2025%40n37944%40tS.clean.pdf",
+      "sha256_pdf": "ebe964054c57b3f16796d0e203cb4494a4622ff6935c1c272770cc58eda3b32c",
+      "sha256_markdown": "402b86ba0e8ae12b398e5ea40de5207ed8c00d0d65890fedcb24178aff3021c4"
+    },
+    {
+      "filename": "snpen@s60@a2025@n38183@tS.clean.md",
+      "solr_id": "snpen2025638183S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 38183,
+      "tipo": "S",
+      "articles_matched": [
+        "318",
+        "319"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20251124/snpen%40s60%40a2025%40n38183%40tS.clean.pdf",
+      "sha256_pdf": "46931e8d82395c1e43f15dcea0b97cbe0da7e76ca80144f471041c631e2bb0ac",
+      "sha256_markdown": "bf5afc9175cdfe1510ce47cd779fc9be251f00be1fd38bc2a7bdb662b29d0fd8"
+    },
+    {
+      "filename": "snpen@s60@a2025@n38206@tS.clean.md",
+      "solr_id": "snpen2025638206S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 38206,
+      "tipo": "S",
+      "articles_matched": [
+        "322"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20251124/snpen%40s60%40a2025%40n38206%40tS.clean.pdf",
+      "sha256_pdf": "45b01ed7012e1d1d4ded47f662bd5a320839ecfd7cf083e51016b2af79983fcb",
+      "sha256_markdown": "f837e72ff23091f45caacc6f632fe2b96f51a2000f61d89e5af74e389bf3144b"
+    },
+    {
+      "filename": "snpen@s60@a2025@n38809@tS.clean.md",
+      "solr_id": "snpen2025638809S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 38809,
+      "tipo": "S",
+      "articles_matched": [
+        "318",
+        "321",
+        "322"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20251201/snpen%40s60%40a2025%40n38809%40tS.clean.pdf",
+      "sha256_pdf": "fd3040f38d7115ddb8c38749d2de9b906fb6d6f6d68398c836a45a9673296009",
+      "sha256_markdown": "d9626461e8be4f1d4592cc92248b3444ef84f7096f35550a7c86c6182b427d6c"
+    },
+    {
+      "filename": "snpen@s60@a2025@n38912@tS.clean.md",
+      "solr_id": "snpen2025638912S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 38912,
+      "tipo": "S",
+      "articles_matched": [
+        "318",
+        "319"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20251202/snpen%40s60%40a2025%40n38912%40tS.clean.pdf",
+      "sha256_pdf": "c6176093fc3b1faf2712e778d06ded500756cc01779a50370b4eaf358dfe9bf5",
+      "sha256_markdown": "58a7a505a0b676e280c81fc24452cf79196d2292f9d1ae735bd9d120a7cc79fc"
+    },
+    {
+      "filename": "snpen@s60@a2025@n39006@tS.clean.md",
+      "solr_id": "snpen2025639006S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 39006,
+      "tipo": "S",
+      "articles_matched": [
+        "321"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20251203/snpen%40s60%40a2025%40n39006%40tS.clean.pdf",
+      "sha256_pdf": "828e0363e6ef5c3ca76e10cb17ef29ca3e508d9c7a6cdce901bcb78308e86e6c",
+      "sha256_markdown": "0a89d5372c32f1f0898c0b4b94853e44ef739f0f40839e721541eda423428c88"
+    },
+    {
+      "filename": "snpen@s60@a2025@n39013@tS.clean.md",
+      "solr_id": "snpen2025639013S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 39013,
+      "tipo": "S",
+      "articles_matched": [
+        "318",
+        "322"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20251203/snpen%40s60%40a2025%40n39013%40tS.clean.pdf",
+      "sha256_pdf": "7424b7a2e37878f0a32a707191dacfeb3c1bbcba94dc6f3e5bbff998b25c4708",
+      "sha256_markdown": "dea18b2d707c74ddad4c4da0a5db10046ec17502879dd681b2f2c6149c5015a4"
+    },
+    {
+      "filename": "snpen@s60@a2025@n40720@tS.clean.md",
+      "solr_id": "snpen2025640720S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 40720,
+      "tipo": "S",
+      "articles_matched": [
+        "318",
+        "319"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20251218/snpen%40s60%40a2025%40n40720%40tS.clean.pdf",
+      "sha256_pdf": "6ff2a90c5a86bb4aa7df0cf1abf26ec405b07a01a71412578f5928d84c7d1053",
+      "sha256_markdown": "22577f6177ac6011713f309d97d2224d86984d9847655b672c030066f2d639dc"
+    },
+    {
+      "filename": "snpen@s60@a2025@n40721@tS.clean.md",
+      "solr_id": "snpen2025640721S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 40721,
+      "tipo": "S",
+      "articles_matched": [
+        "318",
+        "319",
+        "321"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20251218/snpen%40s60%40a2025%40n40721%40tS.clean.pdf",
+      "sha256_pdf": "7a4051edf2c6ae7174c6c653746b45789b62bbd64c5e134f2919c8881e4492d2",
+      "sha256_markdown": "341be7bea3f57eb413c4dfa2dfe334a9837369e91a6ff5b46676957b91cdcd82"
+    },
+    {
+      "filename": "snpen@s60@a2025@n40722@tS.clean.md",
+      "solr_id": "snpen2025640722S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 40722,
+      "tipo": "S",
+      "articles_matched": [
+        "318",
+        "319",
+        "323"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20251218/snpen%40s60%40a2025%40n40722%40tS.clean.pdf",
+      "sha256_pdf": "b6137fe44526e4c08350a6867b242be3ddb6718abced6400b6f93617bcc3975b",
+      "sha256_markdown": "ee094d217d502393e0a31d8bb9b83f112d425b3f9ec565649fe733727ac6136c"
+    },
+    {
+      "filename": "snpen@s60@a2025@n40723@tS.clean.md",
+      "solr_id": "snpen2025640723S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 40723,
+      "tipo": "S",
+      "articles_matched": [
+        "318",
+        "319",
+        "323"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20251218/snpen%40s60%40a2025%40n40723%40tS.clean.pdf",
+      "sha256_pdf": "3ac8ad5130d9c785d27a9648b400afecc62fb8d634b20ee2d7917b6e6ff872bb",
+      "sha256_markdown": "fceb5b6c3d238996c82dfd3d361ab7121191383405789833daa8cfff14d54ea8"
+    },
+    {
+      "filename": "snpen@s60@a2025@n40724@tS.clean.md",
+      "solr_id": "snpen2025640724S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 40724,
+      "tipo": "S",
+      "articles_matched": [
+        "318",
+        "319",
+        "323"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20251218/snpen%40s60%40a2025%40n40724%40tS.clean.pdf",
+      "sha256_pdf": "deb644ddabb6f18b397ec44b378deb3ccb81ce56af23ea1b723414721352129c",
+      "sha256_markdown": "5de364c9aec532d5122ba58e551b19b3e9398768a3bae669e2914a532e49963a"
+    },
+    {
+      "filename": "snpen@s60@a2025@n40725@tS.clean.md",
+      "solr_id": "snpen2025640725S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 40725,
+      "tipo": "S",
+      "articles_matched": [
+        "318",
+        "319"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20251218/snpen%40s60%40a2025%40n40725%40tS.clean.pdf",
+      "sha256_pdf": "159d4a32ef7b67b5cca643cb0d1e56923b8fda8ef2532a639fe617a9c5a24546",
+      "sha256_markdown": "2172489c068b17a100222239990f6d806ac16cb0aa6e9b9c7131297d2c703a80"
+    },
+    {
+      "filename": "snpen@s60@a2025@n40848@tS.clean.md",
+      "solr_id": "snpen2025640848S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 40848,
+      "tipo": "S",
+      "articles_matched": [
+        "318",
+        "319",
+        "321"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20251219/snpen%40s60%40a2025%40n40848%40tS.clean.pdf",
+      "sha256_pdf": "f84fa2bcc236d9a70cdc075f2e6b0b8788e67ae1f9973217425e1508526b43db",
+      "sha256_markdown": "00baeac0bf8273cdf1273c12124ec3d6a4c3674b3ea5686ae5cdba76c5d36d2b"
+    },
+    {
+      "filename": "snpen@s60@a2025@n40849@tS.clean.md",
+      "solr_id": "snpen2025640849S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 40849,
+      "tipo": "S",
+      "articles_matched": [
+        "318",
+        "319",
+        "321"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20251219/snpen%40s60%40a2025%40n40849%40tS.clean.pdf",
+      "sha256_pdf": "7b9c3bf6442c4003d87f43322dfe8316429032967a1ef340e056333cc496709a",
+      "sha256_markdown": "d7b42ddc26339722da7c75d2a7b5b4d8216de491988617252b20362a74467500"
+    },
+    {
+      "filename": "snpen@s60@a2025@n40850@tS.clean.md",
+      "solr_id": "snpen2025640850S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 40850,
+      "tipo": "S",
+      "articles_matched": [
+        "318",
+        "319",
+        "321"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20251219/snpen%40s60%40a2025%40n40850%40tS.clean.pdf",
+      "sha256_pdf": "2f8ada261bf131d164ba13b0f1af442a34dd8c8b994f324669ea2970daa6a36d",
+      "sha256_markdown": "45d8f05c07e0cb1555d9179041876b56a39fc15abad72356fb619e3cc70289e6"
+    },
+    {
+      "filename": "snpen@s60@a2025@n41150@tS.clean.md",
+      "solr_id": "snpen2025641150S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 41150,
+      "tipo": "S",
+      "articles_matched": [
+        "319",
+        "321"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20251222/snpen%40s60%40a2025%40n41150%40tS.clean.pdf",
+      "sha256_pdf": "e62442de99fa548ed614a2712756d575ee4d19e8aaf4d671bf15d9ae0a18de27",
+      "sha256_markdown": "581ecdaf57751ab4425a22e0b54752f9197f3688efa03cbc319efedcdea291a3"
+    },
+    {
+      "filename": "snpen@s60@a2025@n41152@tS.clean.md",
+      "solr_id": "snpen2025641152S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 41152,
+      "tipo": "S",
+      "articles_matched": [
+        "319",
+        "321"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20251222/snpen%40s60%40a2025%40n41152%40tS.clean.pdf",
+      "sha256_pdf": "066b1247f9e9d616dbf46e39c772f52d030f208f38473f1f9c3d2b7fdc13a995",
+      "sha256_markdown": "059a76a961e79b64dcde63ed51100737d8feac79352e0fc969fb7741dd2c0a7b"
+    },
+    {
+      "filename": "snpen@s60@a2025@n41238@tS.clean.md",
+      "solr_id": "snpen2025641238S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 41238,
+      "tipo": "S",
+      "articles_matched": [
+        "321",
+        "322"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20251223/snpen%40s60%40a2025%40n41238%40tS.clean.pdf",
+      "sha256_pdf": "95303eeb76c4096a5528a4a48ab90105f28b193ff37a1acea59e6b2117a4440c",
+      "sha256_markdown": "eaceed0b28c1e06102253455128cfeda8450d5edc3f211cda58334e9cb4b96f3"
+    },
+    {
+      "filename": "snpen@s60@a2025@n41699@tS.clean.md",
+      "solr_id": "snpen2025641699S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2025,
+      "numero": 41699,
+      "tipo": "S",
+      "articles_matched": [
+        "318",
+        "319",
+        "321"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20251230/snpen%40s60%40a2025%40n41699%40tS.clean.pdf",
+      "sha256_pdf": "d6e436d4246a31a48f3331d40fc21e0ee56a15e35c75cb1f1ec21fa819a8093b",
+      "sha256_markdown": "cd39d9608d62ecbee0778970e950d6a4ad381ac437717462db8f01e6417ef4fd"
+    },
+    {
+      "filename": "snpen@s60@a2026@n00525@tS.clean.md",
+      "solr_id": "snpen2026600525S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2026,
+      "numero": 525,
+      "tipo": "S",
+      "articles_matched": [
+        "319",
+        "321"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20260108/snpen%40s60%40a2026%40n00525%40tS.clean.pdf",
+      "sha256_pdf": "336805f7073d8a3c050c1b7ca9b4d5af02088535f4f16ac385ca524ae0d89c64",
+      "sha256_markdown": "7b6047fc249dda77ed4c9f0306f7d9bb9da90a7cf9eab0b50cf6071b93062987"
+    },
+    {
+      "filename": "snpen@s60@a2026@n00653@tS.clean.md",
+      "solr_id": "snpen2026600653S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2026,
+      "numero": 653,
+      "tipo": "S",
+      "articles_matched": [
+        "318",
+        "319",
+        "321",
+        "323"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20260108/snpen%40s60%40a2026%40n00653%40tS.clean.pdf",
+      "sha256_pdf": "a8b073f98976bf184201131d3d709c1bce01fa6e02944b7810f2ba599f20f1ed",
+      "sha256_markdown": "e4d729f072e0011e7fa9977d98115eca9abf3be097cbd5c9e44ef6d7df4f3f77"
+    },
+    {
+      "filename": "snpen@s60@a2026@n01129@tS.clean.md",
+      "solr_id": "snpen2026601129S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2026,
+      "numero": 1129,
+      "tipo": "S",
+      "articles_matched": [
+        "318",
+        "319"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20260113/snpen%40s60%40a2026%40n01129%40tS.clean.pdf",
+      "sha256_pdf": "510a6c942a81188302b44d71156e82f729a0e14a6f89ca4e519763bce21e21b4",
+      "sha256_markdown": "f315d4ad2fe124feec65e04a77f10d37e92bb1e5b2dd9b974035c5fc81f0e698"
+    },
+    {
+      "filename": "snpen@s60@a2026@n01144@tS.clean.md",
+      "solr_id": "snpen2026601144S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2026,
+      "numero": 1144,
+      "tipo": "S",
+      "articles_matched": [
+        "319",
+        "322"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20260113/snpen%40s60%40a2026%40n01144%40tS.clean.pdf",
+      "sha256_pdf": "808ead9f7a98505ea0b7e4b524b842dfd727c020d53e9e4ee8ef26413da416e8",
+      "sha256_markdown": "6405c4364a85bb0de36862b86760ceb208d39a858d181f1fbbfef54fa4fbb4a6"
+    },
+    {
+      "filename": "snpen@s60@a2026@n01166@tS.clean.md",
+      "solr_id": "snpen2026601166S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2026,
+      "numero": 1166,
+      "tipo": "S",
+      "articles_matched": [
+        "319",
+        "321"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20260113/snpen%40s60%40a2026%40n01166%40tS.clean.pdf",
+      "sha256_pdf": "6fef1397841886341ca5fdbc2aa45c0c7f7da8751833f4d24b6f189e0b0a2201",
+      "sha256_markdown": "875eaa65540cd8946354710f82458e407dfce90fb919600365d551d968e5c712"
+    },
+    {
+      "filename": "snpen@s60@a2026@n01620@tS.clean.md",
+      "solr_id": "snpen2026601620S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2026,
+      "numero": 1620,
+      "tipo": "S",
+      "articles_matched": [
+        "318",
+        "319"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20260114/snpen%40s60%40a2026%40n01620%40tS.clean.pdf",
+      "sha256_pdf": "16fb8cb71b72795eda5e6cbcde61622747287b199087e94b8bb9f34917ec2dcb",
+      "sha256_markdown": "a9229ea35e0e44720310bf3144c7b158e665dfcb58a24d59b4b274ed625d828f"
+    },
+    {
+      "filename": "snpen@s60@a2026@n02234@tS.clean.md",
+      "solr_id": "snpen2026602234S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2026,
+      "numero": 2234,
+      "tipo": "S",
+      "articles_matched": [
+        "322"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20260120/snpen%40s60%40a2026%40n02234%40tS.clean.pdf",
+      "sha256_pdf": "12740c327e4a9867edaccf073a2d6d764745189d64895584366a4cf186dee912",
+      "sha256_markdown": "c658550a4abe1d74983c3778e31b79c2939beabec28232fe60894d6799c077a8"
+    },
+    {
+      "filename": "snpen@s60@a2026@n02417@tS.clean.md",
+      "solr_id": "snpen2026602417S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2026,
+      "numero": 2417,
+      "tipo": "S",
+      "articles_matched": [
+        "319",
+        "321"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20260121/snpen%40s60%40a2026%40n02417%40tS.clean.pdf",
+      "sha256_pdf": "93c038cda22c53adcdbd0763dcb2d52521a5223843dff46e98757a63cc0515ed",
+      "sha256_markdown": "92e81fe04791e600583961ae4f9075a397a127cb5559c6172bfd3c4733348a57"
+    },
+    {
+      "filename": "snpen@s60@a2026@n03254@tS.clean.md",
+      "solr_id": "snpen2026603254S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2026,
+      "numero": 3254,
+      "tipo": "S",
+      "articles_matched": [
+        "322"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20260127/snpen%40s60%40a2026%40n03254%40tS.clean.pdf",
+      "sha256_pdf": "2dcbd9e78e08ce4cdcd80508923fe679864f857a927b579eacb074c080eafc90",
+      "sha256_markdown": "3350be7d7507cf8c8e2713c380c3fda38dab93bf21855a0da8e96bae58e17488"
+    },
+    {
+      "filename": "snpen@s60@a2026@n03266@tS.clean.md",
+      "solr_id": "snpen2026603266S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2026,
+      "numero": 3266,
+      "tipo": "S",
+      "articles_matched": [
+        "321",
+        "322"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20260127/snpen%40s60%40a2026%40n03266%40tS.clean.pdf",
+      "sha256_pdf": "27bb969ab815386ba15f9d8281c7099a6665b30fffc2e8697bfc0b4c064dcffd",
+      "sha256_markdown": "5c712ed86973fccfe658162b057bcd97017f154217abdf0244bee1d0c5faeae5"
+    },
+    {
+      "filename": "snpen@s60@a2026@n03267@tS.clean.md",
+      "solr_id": "snpen2026603267S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2026,
+      "numero": 3267,
+      "tipo": "S",
+      "articles_matched": [
+        "318",
+        "319"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20260127/snpen%40s60%40a2026%40n03267%40tS.clean.pdf",
+      "sha256_pdf": "da194b86ec6347d98cf8d3f5c3271344b8def5d8584fc03d833e23b07bc0061e",
+      "sha256_markdown": "c3430229dc25e0dba91ce3653ef74583012dd5593d6dc498eceac8330a5a7ab7"
+    },
+    {
+      "filename": "snpen@s60@a2026@n03358@tS.clean.md",
+      "solr_id": "snpen2026603358S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2026,
+      "numero": 3358,
+      "tipo": "S",
+      "articles_matched": [
+        "318",
+        "319",
+        "321"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20260128/snpen%40s60%40a2026%40n03358%40tS.clean.pdf",
+      "sha256_pdf": "9c168cdbcd39ac357a91cec3270136e46f2ed2d959c0da53cb3a011fb7857f10",
+      "sha256_markdown": "16f8a20ca1ca7c430447f1f5caa8dcf9dc917b1025c3eb258c8049deaaf5438e"
+    },
+    {
+      "filename": "snpen@s60@a2026@n03935@tS.clean.md",
+      "solr_id": "snpen2026603935S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2026,
+      "numero": 3935,
+      "tipo": "S",
+      "articles_matched": [
+        "318",
+        "319"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20260130/snpen%40s60%40a2026%40n03935%40tS.clean.pdf",
+      "sha256_pdf": "5f6673937e333df1bc06e3821256077f4177052337ae40d542334c1fe2b755e8",
+      "sha256_markdown": "2b893ec9db3f81bdf5848b7a97292641c8ed6b495fe2036b995befa43d82a55e"
+    },
+    {
+      "filename": "snpen@s60@a2026@n04541@tS.clean.md",
+      "solr_id": "snpen2026604541S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2026,
+      "numero": 4541,
+      "tipo": "S",
+      "articles_matched": [
+        "321"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20260203/snpen%40s60%40a2026%40n04541%40tS.clean.pdf",
+      "sha256_pdf": "ec29a2c18e24c6fe393031c479cd3a8471e77390350c9e41b00d2cdff3590ae5",
+      "sha256_markdown": "5f620ff7f7e813cbcce9a9d5fb85c44a551ea8dd36202d0772f5b94f1ce8d810"
+    },
+    {
+      "filename": "snpen@s60@a2026@n04856@tS.clean.md",
+      "solr_id": "snpen2026604856S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2026,
+      "numero": 4856,
+      "tipo": "S",
+      "articles_matched": [
+        "319",
+        "321",
+        "322"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20260206/snpen%40s60%40a2026%40n04856%40tS.clean.pdf",
+      "sha256_pdf": "a696e695c4f1c5965425501b01c589e33db0dbb8426efd4dd87b3fc8d6d21806",
+      "sha256_markdown": "416c4df3ab77e6da053e544d7ce41db1824e17f3f98bdb7033184322896037ff"
+    },
+    {
+      "filename": "snpen@s60@a2026@n05462@tS.clean.md",
+      "solr_id": "snpen2026605462S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2026,
+      "numero": 5462,
+      "tipo": "S",
+      "articles_matched": [
+        "319"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20260211/snpen%40s60%40a2026%40n05462%40tS.clean.pdf",
+      "sha256_pdf": "a20269915d51c26e8b9d56b38827a8e29f251951bddfa1c341a5b39d59bc018d",
+      "sha256_markdown": "f01bb50f6667d553e2c62363328e2c3cedd3be55dd22de38b53a22bc7784b56c"
+    },
+    {
+      "filename": "snpen@s60@a2026@n05464@tS.clean.md",
+      "solr_id": "snpen2026605464S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2026,
+      "numero": 5464,
+      "tipo": "S",
+      "articles_matched": [
+        "319",
+        "321"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20260211/snpen%40s60%40a2026%40n05464%40tS.clean.pdf",
+      "sha256_pdf": "8e7bbbfa85e477263f10217a025444e327aa83ecd326b6f1dc055a884643e84d",
+      "sha256_markdown": "861f3fbf1f1e7d1a0155b7a51f3d1cd0987a5b2b45ab8bf46e2fc8209e9fd137"
+    },
+    {
+      "filename": "snpen@s60@a2026@n05993@tS.clean.md",
+      "solr_id": "snpen2026605993S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2026,
+      "numero": 5993,
+      "tipo": "S",
+      "articles_matched": [
+        "318",
+        "321"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20260213/snpen%40s60%40a2026%40n05993%40tS.clean.pdf",
+      "sha256_pdf": "ba0077e134147a06a93574d1d5c90b9028dda516bfc676d2e8b8a89d69d961e1",
+      "sha256_markdown": "4270b08b60b7c8d8eb0e72c325165c7e0c923ce410e7e7bce26cec8eb868d072"
+    },
+    {
+      "filename": "snpen@s60@a2026@n05994@tS.clean.md",
+      "solr_id": "snpen2026605994S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2026,
+      "numero": 5994,
+      "tipo": "S",
+      "articles_matched": [
+        "318",
+        "321"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20260213/snpen%40s60%40a2026%40n05994%40tS.clean.pdf",
+      "sha256_pdf": "1e99f20a4c459c97e100b693cdddcde350eb296deb746dabd131b2d576ff76aa",
+      "sha256_markdown": "92373aec76c9226e911ef32a533930ac8d97a4ba634d61f6acc72443437d5d03"
+    },
+    {
+      "filename": "snpen@s60@a2026@n05995@tS.clean.md",
+      "solr_id": "snpen2026605995S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2026,
+      "numero": 5995,
+      "tipo": "S",
+      "articles_matched": [
+        "318",
+        "321"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20260213/snpen%40s60%40a2026%40n05995%40tS.clean.pdf",
+      "sha256_pdf": "9c6f355a61e86ee57f1bbee9b2737cce909ff29d1ec9fb0eb6bc72f687d207b0",
+      "sha256_markdown": "7c313fb063833c7c2dddf2c8e3ddf9bd728a0a8d3781562bf4e0e5861787abd6"
+    },
+    {
+      "filename": "snpen@s60@a2026@n05996@tS.clean.md",
+      "solr_id": "snpen2026605996S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2026,
+      "numero": 5996,
+      "tipo": "S",
+      "articles_matched": [
+        "318",
+        "321"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20260213/snpen%40s60%40a2026%40n05996%40tS.clean.pdf",
+      "sha256_pdf": "fd1af4f50aaf3972561e8df39d4efa95d77bc8f97fca9a8b1295d0eabb507fde",
+      "sha256_markdown": "a7b46584094a84e53e70a055c89ff1fbe5b5dc26b209ce575792cf8693c167ae"
+    },
+    {
+      "filename": "snpen@s60@a2026@n05997@tS.clean.md",
+      "solr_id": "snpen2026605997S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2026,
+      "numero": 5997,
+      "tipo": "S",
+      "articles_matched": [
+        "318",
+        "321"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20260213/snpen%40s60%40a2026%40n05997%40tS.clean.pdf",
+      "sha256_pdf": "89a395692eb9fc9d079eca6ce16baf5c16789b9b82416321677e9cc5ae2de06c",
+      "sha256_markdown": "d04393a4025d644b4f08ac65553a3da207e185b1e33183d03e7454dedb4d34c9"
+    },
+    {
+      "filename": "snpen@s60@a2026@n05998@tS.clean.md",
+      "solr_id": "snpen2026605998S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2026,
+      "numero": 5998,
+      "tipo": "S",
+      "articles_matched": [
+        "318",
+        "321"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20260213/snpen%40s60%40a2026%40n05998%40tS.clean.pdf",
+      "sha256_pdf": "724425e29e5be57e4dac30f962dd079642359503cf1278ea224324301a52b769",
+      "sha256_markdown": "193195b5fda347810539707f6dd6f83a5434a87ab65811e069f81fc3c92b3e7f"
+    },
+    {
+      "filename": "snpen@s60@a2026@n06184@tS.clean.md",
+      "solr_id": "snpen2026606184S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2026,
+      "numero": 6184,
+      "tipo": "S",
+      "articles_matched": [
+        "318",
+        "321"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20260216/snpen%40s60%40a2026%40n06184%40tS.clean.pdf",
+      "sha256_pdf": "a3737691a5baf8615873fa41426d6c9c7ed1519e3a18d48dc690d4329d7fe2b0",
+      "sha256_markdown": "1d7d2fab0e955179495dd929f3b795c50b967437f9397dd3c55274e544bbb79d"
+    },
+    {
+      "filename": "snpen@s60@a2026@n06834@tS.clean.md",
+      "solr_id": "snpen2026606834S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2026,
+      "numero": 6834,
+      "tipo": "S",
+      "articles_matched": [
+        "318",
+        "321"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20260219/snpen%40s60%40a2026%40n06834%40tS.clean.pdf",
+      "sha256_pdf": "cc508beed4b5e597c93d6890ebcbcc50fee3e56e4c8b994b5737a8e221861072",
+      "sha256_markdown": "195bd6628630ae6b20e7409c4c5343dd810cf5b444588b4bf8789e8b3b498516"
+    },
+    {
+      "filename": "snpen@s60@a2026@n06835@tS.clean.md",
+      "solr_id": "snpen2026606835S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2026,
+      "numero": 6835,
+      "tipo": "S",
+      "articles_matched": [
+        "318",
+        "321"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20260219/snpen%40s60%40a2026%40n06835%40tS.clean.pdf",
+      "sha256_pdf": "26f609f38517bc92e2bb5a196eaedd871d4cffd100dd27a2c0a0b8d9d67260a2",
+      "sha256_markdown": "f9bc69e964e307319ecf2f0791f6f5987a4ccf22af629eeea80580a99a477219"
+    },
+    {
+      "filename": "snpen@s60@a2026@n06836@tS.clean.md",
+      "solr_id": "snpen2026606836S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2026,
+      "numero": 6836,
+      "tipo": "S",
+      "articles_matched": [
+        "318",
+        "321"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20260219/snpen%40s60%40a2026%40n06836%40tS.clean.pdf",
+      "sha256_pdf": "dacde6fd5252f773d1f0aea02c6840297e16488990e5ea5a3842206122d9b75d",
+      "sha256_markdown": "e2e27589dfe23b5f8528d453b11815ba1b3d36375f1336d35a504e7453d51565"
+    },
+    {
+      "filename": "snpen@s60@a2026@n06876@tS.clean.md",
+      "solr_id": "snpen2026606876S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2026,
+      "numero": 6876,
+      "tipo": "S",
+      "articles_matched": [
+        "319"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20260220/snpen%40s60%40a2026%40n06876%40tS.clean.pdf",
+      "sha256_pdf": "4add3ff2b38ff17c2a31767b725050eca26f815d60bcafd0222820276fad7c26",
+      "sha256_markdown": "ca6711965ad4eb04278ca2969c670f9727d336c40870795ba1de76e5f414130a"
+    },
+    {
+      "filename": "snpen@s60@a2026@n07962@tS.clean.md",
+      "solr_id": "snpen2026607962S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2026,
+      "numero": 7962,
+      "tipo": "S",
+      "articles_matched": [
+        "318",
+        "319",
+        "321",
+        "322",
+        "323"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20260227/snpen%40s60%40a2026%40n07962%40tS.clean.pdf",
+      "sha256_pdf": "c2fc422d44d867584e824dd2c25c348e5a10102ee40274b3d0d9c4bbc7c31870",
+      "sha256_markdown": "ad61e1eabf4c82e4df72dda71d7580f1a8c04aaabaeec87313bdda28413fe886"
+    },
+    {
+      "filename": "snpen@s60@a2026@n07985@tS.clean.md",
+      "solr_id": "snpen2026607985S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2026,
+      "numero": 7985,
+      "tipo": "S",
+      "articles_matched": [
+        "319"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20260227/snpen%40s60%40a2026%40n07985%40tS.clean.pdf",
+      "sha256_pdf": "fe3c5b7fa089da3b6feeb1abdb2c4815ec8d23c65b210f7931a326519f636ac5",
+      "sha256_markdown": "4e2c7903cd06697b501584fa07a2df11df985c736ab583f0d7672e3794012f28"
+    },
+    {
+      "filename": "snpen@s60@a2026@n08551@tS.clean.md",
+      "solr_id": "snpen2026608551S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2026,
+      "numero": 8551,
+      "tipo": "S",
+      "articles_matched": [
+        "320",
+        "322"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20260304/snpen%40s60%40a2026%40n08551%40tS.clean.pdf",
+      "sha256_pdf": "61b82bd804bb819b4c10e50094507017b130b5a90544fbdfddd513bae7898265",
+      "sha256_markdown": "ad539f5919f1647ebe6011c4cd8cc0a90d6e43aa71b913a266f8141cc7d63269"
+    },
+    {
+      "filename": "snpen@s60@a2026@n08673@tS.clean.md",
+      "solr_id": "snpen2026608673S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2026,
+      "numero": 8673,
+      "tipo": "S",
+      "articles_matched": [
+        "319",
+        "323"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20260305/snpen%40s60%40a2026%40n08673%40tS.clean.pdf",
+      "sha256_pdf": "1247d756e0c0027852fbe9389bc56d4ebb9470f342d40aeddd6df3633dab1ec7",
+      "sha256_markdown": "51e5d8494a7c37f237e71f7bb0257b022743ac425dede3ca6549e92e849a7f55"
+    },
+    {
+      "filename": "snpen@s60@a2026@n08675@tS.clean.md",
+      "solr_id": "snpen2026608675S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2026,
+      "numero": 8675,
+      "tipo": "S",
+      "articles_matched": [
+        "318",
+        "319",
+        "321",
+        "323"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20260305/snpen%40s60%40a2026%40n08675%40tS.clean.pdf",
+      "sha256_pdf": "9f543211308588a2aedc096c3760b8d4f0e55ed5b217b5d4a3bf0930a8d40d83",
+      "sha256_markdown": "9c97b33a60c12b4ee6203aba93647f66660792b01f4d4beb88a6b4ffbdf28e79"
+    },
+    {
+      "filename": "snpen@s60@a2026@n08680@tS.clean.md",
+      "solr_id": "snpen2026608680S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2026,
+      "numero": 8680,
+      "tipo": "S",
+      "articles_matched": [
+        "319",
+        "321"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20260305/snpen%40s60%40a2026%40n08680%40tS.clean.pdf",
+      "sha256_pdf": "10c5bd78503e0164ffdd90599b74e14f5d8036e74e951503dc35588f71640cdc",
+      "sha256_markdown": "5d1920351a8a537df76229b072f7fac75431dd47f7b319c6d13ec6b041ccec87"
+    },
+    {
+      "filename": "snpen@s60@a2026@n09188@tS.clean.md",
+      "solr_id": "snpen2026609188S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2026,
+      "numero": 9188,
+      "tipo": "S",
+      "articles_matched": [
+        "318"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20260310/snpen%40s60%40a2026%40n09188%40tS.clean.pdf",
+      "sha256_pdf": "a699cdbe28893d6ee28f989a5e21f235a3a5ff7f2968cf0cd282f0af19e2490f",
+      "sha256_markdown": "959c8c723eac03d58ae006ef53f464ba8adf6ae3b114417e669ed40eef88a69b"
+    },
+    {
+      "filename": "snpen@s60@a2026@n09193@tS.clean.md",
+      "solr_id": "snpen2026609193S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2026,
+      "numero": 9193,
+      "tipo": "S",
+      "articles_matched": [
+        "319"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20260310/snpen%40s60%40a2026%40n09193%40tS.clean.pdf",
+      "sha256_pdf": "6aaf8b4d510dec57e916025ba920bbdb2bf4aab6a788680806e71ec120f8695d",
+      "sha256_markdown": "7916a54515c9dc06193dcee0973e3c62b13e0d43fae43ee01f43e3ac38a0588a"
+    },
+    {
+      "filename": "snpen@s60@a2026@n09799@tS.clean.md",
+      "solr_id": "snpen2026609799S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2026,
+      "numero": 9799,
+      "tipo": "S",
+      "articles_matched": [
+        "318"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20260313/snpen%40s60%40a2026%40n09799%40tS.clean.pdf",
+      "sha256_pdf": "a7791d3acc9cb493eebdfe52cfd5f5acebd8dfd6aa5c64aaab3eaf22c15bb1f6",
+      "sha256_markdown": "23cfac63ffdb88188e6770471f6f0fa47f882fac6a1339dd5b31281eb0e59b6a"
+    },
+    {
+      "filename": "snpen@s60@a2026@n09801@tS.clean.md",
+      "solr_id": "snpen2026609801S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2026,
+      "numero": 9801,
+      "tipo": "S",
+      "articles_matched": [
+        "318"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20260313/snpen%40s60%40a2026%40n09801%40tS.clean.pdf",
+      "sha256_pdf": "c6d91b94fac88c0fb22802bd28db492bc963724527ea655dfc38fdfc62ac4319",
+      "sha256_markdown": "a2c201a4bd8f35e4fec8e06e7d5aabfb3fe974f4ceb677fae1625b0a6f133680"
+    },
+    {
+      "filename": "snpen@s60@a2026@n09933@tS.clean.md",
+      "solr_id": "snpen2026609933S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2026,
+      "numero": 9933,
+      "tipo": "S",
+      "articles_matched": [
+        "318",
+        "319",
+        "321",
+        "323"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20260316/snpen%40s60%40a2026%40n09933%40tS.clean.pdf",
+      "sha256_pdf": "073b5200ae614e9a09e0344af0718c2a35f7b6c0dc764c8dbceff3938b5f4cb7",
+      "sha256_markdown": "16869b799f480cddf0c04f535dab9f4449ad6721670a9533fbd2f670d6ace87f"
+    },
+    {
+      "filename": "snpen@s60@a2026@n09948@tS.clean.md",
+      "solr_id": "snpen2026609948S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2026,
+      "numero": 9948,
+      "tipo": "S",
+      "articles_matched": [
+        "321",
+        "322"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20260316/snpen%40s60%40a2026%40n09948%40tS.clean.pdf",
+      "sha256_pdf": "9a1ee5e0bc9fc4422e4d894c54cc3c075cd746b88ae3e7894a5ee7a3b26291c6",
+      "sha256_markdown": "f0c62a83ab70e62330070acf1b386364ac7ca2b7f0f722180462c469c3455961"
+    },
+    {
+      "filename": "snpen@s60@a2026@n10775@tS.clean.md",
+      "solr_id": "snpen2026610775S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2026,
+      "numero": 10775,
+      "tipo": "S",
+      "articles_matched": [
+        "321"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20260320/snpen%40s60%40a2026%40n10775%40tS.clean.pdf",
+      "sha256_pdf": "22b5677780ca2dfb2f0e22d3def82cfdc349f18892dfb00b24932d7256423db7",
+      "sha256_markdown": "d6441c81657821a3acb12b2789c6c71440a80c91e2c5eceadaf4055392949530"
+    },
+    {
+      "filename": "snpen@s60@a2026@n11233@tS.clean.md",
+      "solr_id": "snpen2026611233S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2026,
+      "numero": 11233,
+      "tipo": "S",
+      "articles_matched": [
+        "319",
+        "321",
+        "322"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20260325/snpen%40s60%40a2026%40n11233%40tS.clean.pdf",
+      "sha256_pdf": "e6744e43e94c8e80daea13cdabc2bcc266362bd6bcdbb7e57431f5fc1777fd24",
+      "sha256_markdown": "9d10bfb2c7339784684d31ba270c096f97c8860ac28d3e962587c18279bc5190"
+    },
+    {
+      "filename": "snpen@s60@a2026@n11743@tS.clean.md",
+      "solr_id": "snpen2026611743S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2026,
+      "numero": 11743,
+      "tipo": "S",
+      "articles_matched": [
+        "318",
+        "319",
+        "323"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20260327/snpen%40s60%40a2026%40n11743%40tS.clean.pdf",
+      "sha256_pdf": "8bb644a73ed6a375dc7a151850499cb5459f1068166dbfe362213d63fec63475",
+      "sha256_markdown": "9e8744284efae55bed21893f7ae78fa998a2221bc914ff39a3814810aa6c75ed"
+    },
+    {
+      "filename": "snpen@s60@a2026@n12273@tO.clean.md",
+      "solr_id": "snpen2026612273O",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2026,
+      "numero": 12273,
+      "tipo": "O",
+      "articles_matched": [
+        "319",
+        "323"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20260331/snpen%40s60%40a2026%40n12273%40tO.clean.pdf",
+      "sha256_pdf": "0295928926cbca3c4180b54738309cb38685e2e0d6848f44d5b0da7928dc7b51",
+      "sha256_markdown": "ecd4a16e619c6b8d68a5bb2a64c57b739f880168262e14a0c8501433f37c3d9f"
+    },
+    {
+      "filename": "snpen@s60@a2026@n12513@tS.clean.md",
+      "solr_id": "snpen2026612513S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2026,
+      "numero": 12513,
+      "tipo": "S",
+      "articles_matched": [
+        "318",
+        "321",
+        "323"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20260402/snpen%40s60%40a2026%40n12513%40tS.clean.pdf",
+      "sha256_pdf": "ac7c6d75ac4c43a71175fedccdd0aa7e7d1d79c12a0aedd857b92998ee3600a7",
+      "sha256_markdown": "490545394266136b4ade760717550bc918a03e54c2537590031beed4c137ba56"
+    },
+    {
+      "filename": "snpen@s60@a2026@n13032@tS.clean.md",
+      "solr_id": "snpen2026613032S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2026,
+      "numero": 13032,
+      "tipo": "S",
+      "articles_matched": [
+        "321",
+        "322"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20260409/snpen%40s60%40a2026%40n13032%40tS.clean.pdf",
+      "sha256_pdf": "e2542d44861144ba934b5c788d2f53380e048090085ebf3ea41b0a33c353fcb7",
+      "sha256_markdown": "5b0193d6a91d4c8ba624463297dab4e6e53a3dbbedadd193caf4fcbcfbab875a"
+    },
+    {
+      "filename": "snpen@s60@a2026@n13349@tS.clean.md",
+      "solr_id": "snpen2026613349S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2026,
+      "numero": 13349,
+      "tipo": "S",
+      "articles_matched": [
+        "322"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20260413/snpen%40s60%40a2026%40n13349%40tS.clean.pdf",
+      "sha256_pdf": "d5e6464da325b156e994e984a994ff38f3c40752ddf43f0be46ce76dfb495ee7",
+      "sha256_markdown": "4883c66330f38b5e1a4c846d0e758d2167d1715a24e168a72a74a1ee1bcca9f6"
+    },
+    {
+      "filename": "snpen@s60@a2026@n13872@tS.clean.md",
+      "solr_id": "snpen2026613872S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2026,
+      "numero": 13872,
+      "tipo": "S",
+      "articles_matched": [
+        "319"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20260416/snpen%40s60%40a2026%40n13872%40tS.clean.pdf",
+      "sha256_pdf": "55ab5c1eb286543e7f768840814e9d14bf4093dc1d6c24ecb1d43586fb50bbcb",
+      "sha256_markdown": "55983698e4f468fd84d8107c7667a32ddae7445f6f88f09d8e325b6890f8d92a"
+    },
+    {
+      "filename": "snpen@s60@a2026@n13878@tS.clean.md",
+      "solr_id": "snpen2026613878S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2026,
+      "numero": 13878,
+      "tipo": "S",
+      "articles_matched": [
+        "319",
+        "323"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20260416/snpen%40s60%40a2026%40n13878%40tS.clean.pdf",
+      "sha256_pdf": "885c95385f8e877ea904b993d77dc97736e953da41a0eba96ab971d62026c184",
+      "sha256_markdown": "211c10277444e1d520df4701bd073ab0d108117de20e1c90e9938a33b295cf36"
+    },
+    {
+      "filename": "snpen@s60@a2026@n13895@tS.clean.md",
+      "solr_id": "snpen2026613895S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2026,
+      "numero": 13895,
+      "tipo": "S",
+      "articles_matched": [
+        "319",
+        "321"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20260416/snpen%40s60%40a2026%40n13895%40tS.clean.pdf",
+      "sha256_pdf": "e8012c82e944a4102edee2f6926ad80bb66bcf48f434f5446c4de385509c54bd",
+      "sha256_markdown": "4621dc5c92672e89307afff48136dcc3afd1c6972e587faf095b74ecb4b25df8"
+    },
+    {
+      "filename": "snpen@s60@a2026@n14179@tS.clean.md",
+      "solr_id": "snpen2026614179S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2026,
+      "numero": 14179,
+      "tipo": "S",
+      "articles_matched": [
+        "322"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20260417/snpen%40s60%40a2026%40n14179%40tS.clean.pdf",
+      "sha256_pdf": "d790cd0cf86bf693b11ff99eb13b188c21b03a478bdac3756866aa952fbdf302",
+      "sha256_markdown": "188a23760612c66d892659bf08525bbaeb8840428a73388afcbb1f697ec55639"
+    },
+    {
+      "filename": "snpen@s60@a2026@n14471@tS.clean.md",
+      "solr_id": "snpen2026614471S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2026,
+      "numero": 14471,
+      "tipo": "S",
+      "articles_matched": [
+        "319",
+        "321",
+        "323"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20260421/snpen%40s60%40a2026%40n14471%40tS.clean.pdf",
+      "sha256_pdf": "53576d22853dd93dbe6500d8fa03cc2644ea9da83511727a2db3c8991aad419a",
+      "sha256_markdown": "f838c3d2e5f24a79dc357fde6fee47be8ade77027daca21f16f9833181b5b2cf"
+    },
+    {
+      "filename": "snpen@s60@a2026@n14477@tS.clean.md",
+      "solr_id": "snpen2026614477S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2026,
+      "numero": 14477,
+      "tipo": "S",
+      "articles_matched": [
+        "322"
+      ],
+      "split": "fewshot_pool",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20260421/snpen%40s60%40a2026%40n14477%40tS.clean.pdf",
+      "sha256_pdf": "146b75acffe47e76dfadb11ceb08aac46ab6d1713c997e7eae3cc6bd09b70542",
+      "sha256_markdown": "596174162f2969c5a1ffff3b2dffeaf8a007ba10fe81c0e59604d90cf5200da2"
+    },
+    {
+      "filename": "snpen@s60@a2026@n14645@tS.clean.md",
+      "solr_id": "snpen2026614645S",
+      "kind": "snpen",
+      "sezione": "60",
+      "anno": 2026,
+      "numero": 14645,
+      "tipo": "S",
+      "articles_matched": [
+        "322"
+      ],
+      "split": "test",
+      "url_pdf": "https://www.italgiure.giustizia.it/xway/application/nif/clean/hc.dll?verbo=attach&db=snpen&id=./20260422/snpen%40s60%40a2026%40n14645%40tS.clean.pdf",
+      "sha256_pdf": "50412e7e01ea7f9d7f93fbb5b2efeeabd5a469daa48a2182df5bad43362db8ba",
+      "sha256_markdown": "c2a0e4c9d06f270d1a326135d46b90428a4c3b215ca5cd6654e022a1cb4092b3"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "_meta": {
+    "currency": "USD",
+    "unit": "per_million_tokens",
+    "source": "https://openrouter.ai/api/v1/models",
+    "last_updated": "2026-05-15",
+    "note": "Public list prices at last_updated; refresh manually from the source"
+  },
+  "openai/gpt-oss-120b": {"input": 0.039, "output": 0.18},
+  "anthropic/claude-sonnet-4.6": {"input": 3.00, "output": 15.00},
+  "anthropic/claude-opus-4.7": {"input": 5.00, "output": 25.00},
+  "deepseek/deepseek-v4-pro": {"input": 1.392, "output": 2.784},
+  "deepseek/deepseek-v4-flash": {"input": 0.112, "output": 0.224},
+  "google/gemini-3-pro": {"input": 2.00, "output": 12.00},
+  "minimax/minimax-m2.7": {"input": 0.279, "output": 1.20},
+  "nvidia/nemotron-3-super": {"input": 0.09, "output": 0.45},
+  "google/gemini-3-flash-preview": {"input": 0.50, "output": 3.00},
+  "anthropic/claude-sonnet-5": {"input": 2.00, "output": 10.00},
+  "anthropic/claude-sonnet-5:batch": {"input": 1.00, "output": 5.00},
+  "google/gemini-3.5-flash": {"input": 1.50, "output": 9.00},
+  "google/gemini-3.6-flash": {"input": 1.50, "output": 7.50},
+  "google/gemini-3.6-flash:batch": {"input": 0.75, "output": 3.75},
+  "z-ai/glm-5.2": {"input": 0.717, "output": 2.253}
+}

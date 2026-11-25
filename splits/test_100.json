@@ -1,0 +1,775 @@
+{
+  "split": "test",
+  "seed": 42,
+  "rng": "numpy.random.default_rng",
+  "size": 100,
+  "cases": [
+    {
+      "filename": "snpen@s60@a2025@n00305@tS.clean.md",
+      "gt_articles": [
+        "321",
+        "322"
+      ],
+      "stratum": "321|322"
+    },
+    {
+      "filename": "snpen@s60@a2025@n00583@tS.clean.md",
+      "gt_articles": [
+        "319",
+        "321"
+      ],
+      "stratum": "319|321"
+    },
+    {
+      "filename": "snpen@s60@a2025@n01662@tS.clean.md",
+      "gt_articles": [
+        "321"
+      ],
+      "stratum": "321"
+    },
+    {
+      "filename": "snpen@s60@a2025@n01663@tS.clean.md",
+      "gt_articles": [
+        "321"
+      ],
+      "stratum": "321"
+    },
+    {
+      "filename": "snpen@s60@a2025@n02092@tS.clean.md",
+      "gt_articles": [
+        "319",
+        "321"
+      ],
+      "stratum": "319|321"
+    },
+    {
+      "filename": "snpen@s60@a2025@n02235@tS.clean.md",
+      "gt_articles": [
+        "318",
+        "319"
+      ],
+      "stratum": "318|319"
+    },
+    {
+      "filename": "snpen@s60@a2025@n03089@tS.clean.md",
+      "gt_articles": [
+        "321"
+      ],
+      "stratum": "321"
+    },
+    {
+      "filename": "snpen@s60@a2025@n04520@tS.clean.md",
+      "gt_articles": [
+        "318",
+        "319",
+        "321"
+      ],
+      "stratum": "318|319|321"
+    },
+    {
+      "filename": "snpen@s60@a2025@n04606@tS.clean.md",
+      "gt_articles": [
+        "319"
+      ],
+      "stratum": "319"
+    },
+    {
+      "filename": "snpen@s60@a2025@n04943@tS.clean.md",
+      "gt_articles": [
+        "321"
+      ],
+      "stratum": "321"
+    },
+    {
+      "filename": "snpen@s60@a2025@n06728@tS.clean.md",
+      "gt_articles": [
+        "318"
+      ],
+      "stratum": "318"
+    },
+    {
+      "filename": "snpen@s60@a2025@n06833@tS.clean.md",
+      "gt_articles": [
+        "318",
+        "319"
+      ],
+      "stratum": "318|319"
+    },
+    {
+      "filename": "snpen@s60@a2025@n06849@tS.clean.md",
+      "gt_articles": [
+        "321"
+      ],
+      "stratum": "321"
+    },
+    {
+      "filename": "snpen@s60@a2025@n07099@tS.clean.md",
+      "gt_articles": [
+        "318",
+        "319",
+        "321"
+      ],
+      "stratum": "318|319|321"
+    },
+    {
+      "filename": "snpen@s60@a2025@n07112@tS.clean.md",
+      "gt_articles": [
+        "319",
+        "321"
+      ],
+      "stratum": "319|321"
+    },
+    {
+      "filename": "snpen@s60@a2025@n07113@tS.clean.md",
+      "gt_articles": [
+        "319",
+        "321"
+      ],
+      "stratum": "319|321"
+    },
+    {
+      "filename": "snpen@s60@a2025@n07334@tS.clean.md",
+      "gt_articles": [
+        "318",
+        "322"
+      ],
+      "stratum": "318|322"
+    },
+    {
+      "filename": "snpen@s60@a2025@n08246@tS.clean.md",
+      "gt_articles": [
+        "318",
+        "319",
+        "321"
+      ],
+      "stratum": "318|319|321"
+    },
+    {
+      "filename": "snpen@s60@a2025@n09248@tS.clean.md",
+      "gt_articles": [
+        "319"
+      ],
+      "stratum": "319"
+    },
+    {
+      "filename": "snpen@s60@a2025@n10059@tS.clean.md",
+      "gt_articles": [
+        "321"
+      ],
+      "stratum": "321"
+    },
+    {
+      "filename": "snpen@s60@a2025@n10060@tS.clean.md",
+      "gt_articles": [
+        "318",
+        "319",
+        "320",
+        "321"
+      ],
+      "stratum": "318|319|320|321"
+    },
+    {
+      "filename": "snpen@s60@a2025@n10941@tS.clean.md",
+      "gt_articles": [
+        "322"
+      ],
+      "stratum": "322"
+    },
+    {
+      "filename": "snpen@s60@a2025@n12762@tS.clean.md",
+      "gt_articles": [
+        "318",
+        "319",
+        "321"
+      ],
+      "stratum": "318|319|321"
+    },
+    {
+      "filename": "snpen@s60@a2025@n13092@tS.clean.md",
+      "gt_articles": [
+        "319",
+        "321"
+      ],
+      "stratum": "319|321"
+    },
+    {
+      "filename": "snpen@s60@a2025@n13346@tS.clean.md",
+      "gt_articles": [
+        "318"
+      ],
+      "stratum": "318"
+    },
+    {
+      "filename": "snpen@s60@a2025@n14339@tS.clean.md",
+      "gt_articles": [
+        "319"
+      ],
+      "stratum": "319"
+    },
+    {
+      "filename": "snpen@s60@a2025@n14341@tS.clean.md",
+      "gt_articles": [
+        "319",
+        "321"
+      ],
+      "stratum": "319|321"
+    },
+    {
+      "filename": "snpen@s60@a2025@n14850@tS.clean.md",
+      "gt_articles": [
+        "321"
+      ],
+      "stratum": "321"
+    },
+    {
+      "filename": "snpen@s60@a2025@n15774@tS.clean.md",
+      "gt_articles": [
+        "319"
+      ],
+      "stratum": "319"
+    },
+    {
+      "filename": "snpen@s60@a2025@n16979@tS.clean.md",
+      "gt_articles": [
+        "319"
+      ],
+      "stratum": "319"
+    },
+    {
+      "filename": "snpen@s60@a2025@n17475@tS.clean.md",
+      "gt_articles": [
+        "319"
+      ],
+      "stratum": "319"
+    },
+    {
+      "filename": "snpen@s60@a2025@n17700@tO.clean.md",
+      "gt_articles": [
+        "321"
+      ],
+      "stratum": "321"
+    },
+    {
+      "filename": "snpen@s60@a2025@n18325@tS.clean.md",
+      "gt_articles": [
+        "318",
+        "319",
+        "320"
+      ],
+      "stratum": "318|319|320"
+    },
+    {
+      "filename": "snpen@s60@a2025@n19115@tS.clean.md",
+      "gt_articles": [
+        "319"
+      ],
+      "stratum": "319"
+    },
+    {
+      "filename": "snpen@s60@a2025@n19717@tS.clean.md",
+      "gt_articles": [
+        "321"
+      ],
+      "stratum": "321"
+    },
+    {
+      "filename": "snpen@s60@a2025@n19719@tS.clean.md",
+      "gt_articles": [
+        "319"
+      ],
+      "stratum": "319"
+    },
+    {
+      "filename": "snpen@s60@a2025@n20255@tS.clean.md",
+      "gt_articles": [
+        "321"
+      ],
+      "stratum": "321"
+    },
+    {
+      "filename": "snpen@s60@a2025@n21225@tS.clean.md",
+      "gt_articles": [
+        "319",
+        "320"
+      ],
+      "stratum": "319|320"
+    },
+    {
+      "filename": "snpen@s60@a2025@n22435@tS.clean.md",
+      "gt_articles": [
+        "319"
+      ],
+      "stratum": "319"
+    },
+    {
+      "filename": "snpen@s60@a2025@n23808@tS.clean.md",
+      "gt_articles": [
+        "319",
+        "321"
+      ],
+      "stratum": "319|321"
+    },
+    {
+      "filename": "snpen@s60@a2025@n25611@tS.clean.md",
+      "gt_articles": [
+        "319"
+      ],
+      "stratum": "319"
+    },
+    {
+      "filename": "snpen@s60@a2025@n25745@tS.clean.md",
+      "gt_articles": [
+        "318",
+        "319"
+      ],
+      "stratum": "318|319"
+    },
+    {
+      "filename": "snpen@s60@a2025@n25748@tO.clean.md",
+      "gt_articles": [
+        "319",
+        "321"
+      ],
+      "stratum": "319|321"
+    },
+    {
+      "filename": "snpen@s60@a2025@n25941@tS.clean.md",
+      "gt_articles": [
+        "318"
+      ],
+      "stratum": "318"
+    },
+    {
+      "filename": "snpen@s60@a2025@n26109@tS.clean.md",
+      "gt_articles": [
+        "319",
+        "320",
+        "321",
+        "322"
+      ],
+      "stratum": "319|320|321|322"
+    },
+    {
+      "filename": "snpen@s60@a2025@n26580@tO.clean.md",
+      "gt_articles": [
+        "319"
+      ],
+      "stratum": "319"
+    },
+    {
+      "filename": "snpen@s60@a2025@n27061@tS.clean.md",
+      "gt_articles": [
+        "319"
+      ],
+      "stratum": "319"
+    },
+    {
+      "filename": "snpen@s60@a2025@n30184@tS.clean.md",
+      "gt_articles": [
+        "321"
+      ],
+      "stratum": "321"
+    },
+    {
+      "filename": "snpen@s60@a2025@n31857@tS.clean.md",
+      "gt_articles": [
+        "318",
+        "319"
+      ],
+      "stratum": "318|319"
+    },
+    {
+      "filename": "snpen@s60@a2025@n32487@tS.clean.md",
+      "gt_articles": [
+        "319",
+        "321"
+      ],
+      "stratum": "319|321"
+    },
+    {
+      "filename": "snpen@s60@a2025@n32509@tS.clean.md",
+      "gt_articles": [
+        "322"
+      ],
+      "stratum": "322"
+    },
+    {
+      "filename": "snpen@s60@a2025@n33705@tS.clean.md",
+      "gt_articles": [
+        "318",
+        "321"
+      ],
+      "stratum": "318|321"
+    },
+    {
+      "filename": "snpen@s60@a2025@n33719@tO.clean.md",
+      "gt_articles": [
+        "318"
+      ],
+      "stratum": "318"
+    },
+    {
+      "filename": "snpen@s60@a2025@n34306@tS.clean.md",
+      "gt_articles": [
+        "321"
+      ],
+      "stratum": "321"
+    },
+    {
+      "filename": "snpen@s60@a2025@n34382@tS.clean.md",
+      "gt_articles": [
+        "322"
+      ],
+      "stratum": "322"
+    },
+    {
+      "filename": "snpen@s60@a2025@n36051@tS.clean.md",
+      "gt_articles": [
+        "322"
+      ],
+      "stratum": "322"
+    },
+    {
+      "filename": "snpen@s60@a2025@n36894@tS.clean.md",
+      "gt_articles": [
+        "318"
+      ],
+      "stratum": "318"
+    },
+    {
+      "filename": "snpen@s60@a2025@n36895@tS.clean.md",
+      "gt_articles": [
+        "318"
+      ],
+      "stratum": "318"
+    },
+    {
+      "filename": "snpen@s60@a2025@n36921@tS.clean.md",
+      "gt_articles": [
+        "318",
+        "319"
+      ],
+      "stratum": "318|319"
+    },
+    {
+      "filename": "snpen@s60@a2025@n37375@tS.clean.md",
+      "gt_articles": [
+        "321"
+      ],
+      "stratum": "321"
+    },
+    {
+      "filename": "snpen@s60@a2025@n37641@tS.clean.md",
+      "gt_articles": [
+        "319"
+      ],
+      "stratum": "319"
+    },
+    {
+      "filename": "snpen@s60@a2025@n37728@tS.clean.md",
+      "gt_articles": [
+        "319",
+        "320",
+        "321"
+      ],
+      "stratum": "319|320|321"
+    },
+    {
+      "filename": "snpen@s60@a2025@n37944@tS.clean.md",
+      "gt_articles": [
+        "318",
+        "319",
+        "322"
+      ],
+      "stratum": "318|319|322"
+    },
+    {
+      "filename": "snpen@s60@a2025@n38183@tS.clean.md",
+      "gt_articles": [
+        "319"
+      ],
+      "stratum": "319"
+    },
+    {
+      "filename": "snpen@s60@a2025@n38206@tS.clean.md",
+      "gt_articles": [
+        "322"
+      ],
+      "stratum": "322"
+    },
+    {
+      "filename": "snpen@s60@a2025@n38809@tS.clean.md",
+      "gt_articles": [
+        "318",
+        "321",
+        "322"
+      ],
+      "stratum": "318|321|322"
+    },
+    {
+      "filename": "snpen@s60@a2025@n38912@tS.clean.md",
+      "gt_articles": [
+        "318"
+      ],
+      "stratum": "318"
+    },
+    {
+      "filename": "snpen@s60@a2025@n40720@tS.clean.md",
+      "gt_articles": [
+        "318",
+        "319"
+      ],
+      "stratum": "318|319"
+    },
+    {
+      "filename": "snpen@s60@a2025@n40721@tS.clean.md",
+      "gt_articles": [
+        "318",
+        "319",
+        "321"
+      ],
+      "stratum": "318|319|321"
+    },
+    {
+      "filename": "snpen@s60@a2025@n40723@tS.clean.md",
+      "gt_articles": [
+        "318",
+        "319"
+      ],
+      "stratum": "318|319"
+    },
+    {
+      "filename": "snpen@s60@a2025@n40850@tS.clean.md",
+      "gt_articles": [
+        "318",
+        "319"
+      ],
+      "stratum": "318|319"
+    },
+    {
+      "filename": "snpen@s60@a2025@n41150@tS.clean.md",
+      "gt_articles": [
+        "319",
+        "321"
+      ],
+      "stratum": "319|321"
+    },
+    {
+      "filename": "snpen@s60@a2025@n41152@tS.clean.md",
+      "gt_articles": [
+        "319",
+        "321"
+      ],
+      "stratum": "319|321"
+    },
+    {
+      "filename": "snpen@s60@a2026@n00653@tS.clean.md",
+      "gt_articles": [
+        "318",
+        "319",
+        "321"
+      ],
+      "stratum": "318|319|321"
+    },
+    {
+      "filename": "snpen@s60@a2026@n02234@tS.clean.md",
+      "gt_articles": [
+        "322"
+      ],
+      "stratum": "322"
+    },
+    {
+      "filename": "snpen@s60@a2026@n03254@tS.clean.md",
+      "gt_articles": [
+        "322"
+      ],
+      "stratum": "322"
+    },
+    {
+      "filename": "snpen@s60@a2026@n03266@tS.clean.md",
+      "gt_articles": [
+        "321",
+        "322"
+      ],
+      "stratum": "321|322"
+    },
+    {
+      "filename": "snpen@s60@a2026@n03267@tS.clean.md",
+      "gt_articles": [
+        "318",
+        "319"
+      ],
+      "stratum": "318|319"
+    },
+    {
+      "filename": "snpen@s60@a2026@n03358@tS.clean.md",
+      "gt_articles": [
+        "318",
+        "319",
+        "321"
+      ],
+      "stratum": "318|319|321"
+    },
+    {
+      "filename": "snpen@s60@a2026@n04541@tS.clean.md",
+      "gt_articles": [
+        "321"
+      ],
+      "stratum": "321"
+    },
+    {
+      "filename": "snpen@s60@a2026@n05462@tS.clean.md",
+      "gt_articles": [
+        "319"
+      ],
+      "stratum": "319"
+    },
+    {
+      "filename": "snpen@s60@a2026@n05464@tS.clean.md",
+      "gt_articles": [
+        "319",
+        "321"
+      ],
+      "stratum": "319|321"
+    },
+    {
+      "filename": "snpen@s60@a2026@n05993@tS.clean.md",
+      "gt_articles": [
+        "318",
+        "321"
+      ],
+      "stratum": "318|321"
+    },
+    {
+      "filename": "snpen@s60@a2026@n05994@tS.clean.md",
+      "gt_articles": [
+        "318",
+        "321"
+      ],
+      "stratum": "318|321"
+    },
+    {
+      "filename": "snpen@s60@a2026@n05995@tS.clean.md",
+      "gt_articles": [
+        "318",
+        "321"
+      ],
+      "stratum": "318|321"
+    },
+    {
+      "filename": "snpen@s60@a2026@n05997@tS.clean.md",
+      "gt_articles": [
+        "318",
+        "321"
+      ],
+      "stratum": "318|321"
+    },
+    {
+      "filename": "snpen@s60@a2026@n06184@tS.clean.md",
+      "gt_articles": [
+        "318",
+        "321"
+      ],
+      "stratum": "318|321"
+    },
+    {
+      "filename": "snpen@s60@a2026@n06834@tS.clean.md",
+      "gt_articles": [
+        "318",
+        "321"
+      ],
+      "stratum": "318|321"
+    },
+    {
+      "filename": "snpen@s60@a2026@n06836@tS.clean.md",
+      "gt_articles": [
+        "318",
+        "321"
+      ],
+      "stratum": "318|321"
+    },
+    {
+      "filename": "snpen@s60@a2026@n07962@tS.clean.md",
+      "gt_articles": [
+        "318",
+        "319",
+        "321"
+      ],
+      "stratum": "318|319|321"
+    },
+    {
+      "filename": "snpen@s60@a2026@n08551@tS.clean.md",
+      "gt_articles": [
+        "320"
+      ],
+      "stratum": "320"
+    },
+    {
+      "filename": "snpen@s60@a2026@n09801@tS.clean.md",
+      "gt_articles": [
+        "318"
+      ],
+      "stratum": "318"
+    },
+    {
+      "filename": "snpen@s60@a2026@n09948@tS.clean.md",
+      "gt_articles": [
+        "321",
+        "322"
+      ],
+      "stratum": "321|322"
+    },
+    {
+      "filename": "snpen@s60@a2026@n10775@tS.clean.md",
+      "gt_articles": [
+        "321"
+      ],
+      "stratum": "321"
+    },
+    {
+      "filename": "snpen@s60@a2026@n11233@tS.clean.md",
+      "gt_articles": [
+        "319",
+        "322"
+      ],
+      "stratum": "319|322"
+    },
+    {
+      "filename": "snpen@s60@a2026@n12513@tS.clean.md",
+      "gt_articles": [
+        "318",
+        "321"
+      ],
+      "stratum": "318|321"
+    },
+    {
+      "filename": "snpen@s60@a2026@n13349@tS.clean.md",
+      "gt_articles": [
+        "322"
+      ],
+      "stratum": "322"
+    },
+    {
+      "filename": "snpen@s60@a2026@n13872@tS.clean.md",
+      "gt_articles": [
+        "319"
+      ],
+      "stratum": "319"
+    },
+    {
+      "filename": "snpen@s60@a2026@n13895@tS.clean.md",
+      "gt_articles": [
+        "319",
+        "321"
+      ],
+      "stratum": "319|321"
+    },
+    {
+      "filename": "snpen@s60@a2026@n14645@tS.clean.md",
+      "gt_articles": [
+        "322"
+      ],
+      "stratum": "322"
+    }
+  ]
+}

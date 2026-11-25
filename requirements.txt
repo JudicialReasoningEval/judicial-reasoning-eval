@@ -1,0 +1,28 @@
+# Metrics and analysis (CPU-only: M1, M2, M4, all statistics)
+numpy
+requests
+tqdm
+python-dotenv
+
+# M3 semantic alignment — Qwen3-Embedding-8B. transformers and huggingface_hub
+# are imported directly, not only via sentence-transformers, so they are listed
+# here rather than relied on transitively.
+sentence-transformers
+transformers
+huggingface_hub
+
+# Panel judges and the reference panel, over any OpenAI-compatible endpoint
+openai
+
+# Generation. GPT-OSS profiles additionally need the Harmony prompt format.
+vllm
+torch
+openai-harmony
+
+# Corpus acquisition and preprocessing
+pymupdf4llm
+pymupdf
+Pillow
+
+# Tests
+pytest

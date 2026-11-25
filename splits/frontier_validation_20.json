@@ -1,0 +1,199 @@
+{
+  "split": "frontier_validation",
+  "seed": 42,
+  "rng": "numpy.random.default_rng",
+  "size": 20,
+  "drawn_from": "splits/test_100.json ∩ panel-labelled judge side",
+  "eligible": 96,
+  "allocation": {
+    "318": 4,
+    "318+319": 4,
+    "319": 6,
+    "321": 3,
+    "321+322": 1,
+    "322": 2,
+    "other": 0
+  },
+  "cases": [
+    {
+      "filename": "snpen@s60@a2025@n04520@tS.clean.md",
+      "gt_articles": [
+        "318",
+        "319",
+        "321"
+      ],
+      "stratum": "318|319|321",
+      "coarse_stratum": "318+319"
+    },
+    {
+      "filename": "snpen@s60@a2025@n07099@tS.clean.md",
+      "gt_articles": [
+        "318",
+        "319",
+        "321"
+      ],
+      "stratum": "318|319|321",
+      "coarse_stratum": "318+319"
+    },
+    {
+      "filename": "snpen@s60@a2025@n07112@tS.clean.md",
+      "gt_articles": [
+        "319",
+        "321"
+      ],
+      "stratum": "319|321",
+      "coarse_stratum": "319"
+    },
+    {
+      "filename": "snpen@s60@a2025@n07334@tS.clean.md",
+      "gt_articles": [
+        "318",
+        "322"
+      ],
+      "stratum": "318|322",
+      "coarse_stratum": "318"
+    },
+    {
+      "filename": "snpen@s60@a2025@n10059@tS.clean.md",
+      "gt_articles": [
+        "321"
+      ],
+      "stratum": "321",
+      "coarse_stratum": "321"
+    },
+    {
+      "filename": "snpen@s60@a2025@n10941@tS.clean.md",
+      "gt_articles": [
+        "322"
+      ],
+      "stratum": "322",
+      "coarse_stratum": "322"
+    },
+    {
+      "filename": "snpen@s60@a2025@n19717@tS.clean.md",
+      "gt_articles": [
+        "321"
+      ],
+      "stratum": "321",
+      "coarse_stratum": "321"
+    },
+    {
+      "filename": "snpen@s60@a2025@n19719@tS.clean.md",
+      "gt_articles": [
+        "319"
+      ],
+      "stratum": "319",
+      "coarse_stratum": "319"
+    },
+    {
+      "filename": "snpen@s60@a2025@n21225@tS.clean.md",
+      "gt_articles": [
+        "319",
+        "320"
+      ],
+      "stratum": "319|320",
+      "coarse_stratum": "319"
+    },
+    {
+      "filename": "snpen@s60@a2025@n26109@tS.clean.md",
+      "gt_articles": [
+        "319",
+        "320",
+        "321",
+        "322"
+      ],
+      "stratum": "319|320|321|322",
+      "coarse_stratum": "319"
+    },
+    {
+      "filename": "snpen@s60@a2025@n32487@tS.clean.md",
+      "gt_articles": [
+        "319",
+        "321"
+      ],
+      "stratum": "319|321",
+      "coarse_stratum": "319"
+    },
+    {
+      "filename": "snpen@s60@a2025@n32509@tS.clean.md",
+      "gt_articles": [
+        "322"
+      ],
+      "stratum": "322",
+      "coarse_stratum": "322"
+    },
+    {
+      "filename": "snpen@s60@a2025@n36921@tS.clean.md",
+      "gt_articles": [
+        "318",
+        "319"
+      ],
+      "stratum": "318|319",
+      "coarse_stratum": "318+319"
+    },
+    {
+      "filename": "snpen@s60@a2025@n37375@tS.clean.md",
+      "gt_articles": [
+        "321"
+      ],
+      "stratum": "321",
+      "coarse_stratum": "321"
+    },
+    {
+      "filename": "snpen@s60@a2025@n37944@tS.clean.md",
+      "gt_articles": [
+        "318",
+        "319",
+        "322"
+      ],
+      "stratum": "318|319|322",
+      "coarse_stratum": "318+319"
+    },
+    {
+      "filename": "snpen@s60@a2025@n38809@tS.clean.md",
+      "gt_articles": [
+        "318",
+        "321",
+        "322"
+      ],
+      "stratum": "318|321|322",
+      "coarse_stratum": "318"
+    },
+    {
+      "filename": "snpen@s60@a2025@n41152@tS.clean.md",
+      "gt_articles": [
+        "319",
+        "321"
+      ],
+      "stratum": "319|321",
+      "coarse_stratum": "319"
+    },
+    {
+      "filename": "snpen@s60@a2026@n03266@tS.clean.md",
+      "gt_articles": [
+        "321",
+        "322"
+      ],
+      "stratum": "321|322",
+      "coarse_stratum": "321+322"
+    },
+    {
+      "filename": "snpen@s60@a2026@n05994@tS.clean.md",
+      "gt_articles": [
+        "318",
+        "321"
+      ],
+      "stratum": "318|321",
+      "coarse_stratum": "318"
+    },
+    {
+      "filename": "snpen@s60@a2026@n05997@tS.clean.md",
+      "gt_articles": [
+        "318",
+        "321"
+      ],
+      "stratum": "318|321",
+      "coarse_stratum": "318"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper."
+title: "Evaluating LLM-Generated Judicial Reasoning: Evidence from Italian Supreme Court Decisions"
+authors:
+  - family-names: Adobati
+    given-names: Simone
+    affiliation: University of Milano-Bicocca
+  - family-names: Bruno
+    given-names: Federico Lorenzo
+    affiliation: University of Milano-Bicocca
+  - family-names: Malandri
+    given-names: Lorenzo
+    affiliation: University of Milano-Bicocca
+license: MIT
+preferred-citation:
+  type: conference-paper
+  title: "Evaluating LLM-Generated Judicial Reasoning: Evidence from Italian Supreme Court Decisions"
+  authors:
+    - family-names: Adobati
+      given-names: Simone
+    - family-names: Bruno
+      given-names: Federico Lorenzo
+    - family-names: Malandri
+      given-names: Lorenzo
+  collection-title: "Proceedings of the 2027 Conference of the European Chapter of the Association for Computational Linguistics (EACL)"
+  conference:
+    name: "EACL 2027"
+  year: 2027

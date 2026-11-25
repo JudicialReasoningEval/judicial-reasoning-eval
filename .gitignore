@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Fetched corpus and anything derived from it. The judgments are published
+# unredacted by the Court and are not redistributed with this code; they are
+# retrieved locally via tools/fetch_corpus.py.
+sentenze/
+sentenze_md/
+sentenze_md_filtered/
+
+# Run outputs. Generated locally; not redistributed, since the models name the
+# parties they read about in the case files.
+results/
+benchmark/
